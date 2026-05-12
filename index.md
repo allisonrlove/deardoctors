@@ -54,7 +54,7 @@ My thoughts lie somewhere in the middle, in the messiness that queerness often e
 
 <br><br>
 
-<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8;">
+<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8;margin-bottom:30px;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
 Notes on Legibility 
 </summary>
@@ -111,7 +111,7 @@ Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed 
   image-position="right"
   image-width="48%"
   caption='A garden path winding through lush greenery. Photo by Pao Dayag on Unsplash.'
-  image-path="images/pao-dayag-08-AAUx-WtM-unsplash.jpg"
+  image-path="assets/images/ElizabethCushier.PNG"
   text=firstimage
 %}
 
