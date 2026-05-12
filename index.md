@@ -58,11 +58,7 @@ Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed 
   text=firstimage
 %}
 
-Footnotes work normally in ScrollStories — you can place them anywhere in the page flow.[^1]
-
-Click a footnote number to see it pop up. Click anywhere else to dismiss. This keeps your main text flowing while providing space for citations and elaboration.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+Footnotes work normally in ScrollStories — you can place them anywhere in the page flow.
 
 
 ## Another image
