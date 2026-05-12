@@ -75,6 +75,22 @@ Mystery Word One: ocean (two responses), queen (two responses), queer (three res
 <p>
 Mystery Word Two: glerte (?), gleret (??), slert (???), Home (two responses), olerie (one response and a real word from the 1890s!), store (one response), shore (one response)
 </p>
+
+<p>
+Based on the fact that Cushier and Blackwell had a summer home in York Cliffs, Maine, right by the water, I think the most plausible answer is ocean and shore. During their year apart, Cushier stayed in their Manhattan home, evidenced by her writing of her frequent trips to Harlem. It makes sense, then, that she would long for their shared house by the ocean and endearingly refer to the place as “our shore.” However, in doing this unintentional little experiment, I became comfortable with the idea that I might never know. 
+</p>
+
+<p>
+Cushier never wrote her letter intending for it to be read by the public; it was meant to be an intimate moment shared between her and her partner only. By sharing this letter, I participate in a sort of ‘outing’ that exposes the intimate lives of these women. It seems okay to me that they get to keep something for themselves, even if it is just two words. 
+</p>
+
+<p>
+They also existed in a period where illegibility meant safety. Queer women, like Cushier and Blackwell, employed strategies to make their relationship unreadable to those not familiar or who disapproved of displays of non-normative sexualities. Maybe these two words were meant only for them. 
+</p>
+
+<p>
+There is also the illegibility of both queerness and the past. We will never fully know the queerness and desires of others. We may try to pin it down with labels and analysis, but there is a slipperiness and messiness to queerness that evades clarity. The same goes for the past. While we can gather bits and pieces of evidence that create outlines of events and people, it is impossible to fully replicate the feelings, reactions, and complexities of everyone involved. The best we can do is provide queered copies of the past. This is all to say that those two words are for us to ponder but never know. However, we can imagine a past for them where Cushier lamented that she had not seen her “queer” for a full year and anxiously awaited joining Blackwell in their “Home,” or she missed their “queen” and wished to return to their “slert.” 
+</p>
 </details>
 
 
