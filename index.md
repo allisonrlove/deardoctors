@@ -39,9 +39,7 @@ Although they constructed rhetorical boundaries between their professional and p
 ## ## A Note on Queerness
 
 ```yaml
-growl snarl 
-header-title: Your Title Here
-header-subtitle: a short description
+Historians of sexuality, and historians in general, frequently debate whether or not it is acceptable to apply modern labels to historical actors. They question if it is responsible to call someone ‘gay’ or ‘lesbian’ when those terms did not exist, were not popularized, and they would not have thought of themselves in this way. On the other side, if we do not name categories of non-normative sexualities, it could contribute to an erasure of gay, lesbian, and/or trans histories, framing gay-ness or transness as a modern phenomenon. My thoughts lie somewhere in the middle, in the messiness that queerness often exists in. For this reason, I will refer to Cushier and Blackwell’s relationship as queer. I define queer as deviant from normative sexual and gender roles. Their relationship existed outside the bonds of normative sexualities (the specifics of which will be discussed later), and they shared a deep, emotional, if not physical, love together. I use queer here as an analytical category rather than a label. They may have thought of themselves and their relationship the way we conceptualize modern lesbians, and historians have categorized them this way, but it is impossible to know anything for certain beyond what their sources tell us. 
 ```
 
 No `header-tier` means hero by default — the image fills 100% of the viewport height. You can also set `header-position` to adjust which part of the image is visible (useful when the focal point isn't centered).
