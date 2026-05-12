@@ -97,9 +97,9 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 <div style="display:flex; gap:20px; margin-top:20px;">
 
-  <img src="/assets/images/mystery1.PNG" style="width:50%; height:auto; border-radius:6px;">
+  <img src="assets/images/mystery1.PNG" style="width:50%; height:auto; border-radius:6px;">
 
-  <img src="/assets/images/mystery2.PNG" style="width:50%; height:auto; border-radius:6px;">
+  <img src="assets/images/mystery2.PNG" style="width:50%; height:auto; border-radius:6px;">
 
 </div>
 
