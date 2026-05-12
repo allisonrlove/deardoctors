@@ -130,7 +130,7 @@ While she led with the establishment of her medical authority and made a distinc
 {% include images/figure-wrap.html
   image-position="left"
   image-width="50%"
-  caption="Another seeding! Photo by qinghill on Unsplash"
+  caption="Dr. Emily Blackwell. Source: https://www.nyclgbtsites.org/site/new-york-infirmary-for-indigent-women-children/."
   image-path="assests/images/EmilyBlackwell.jpg"
   text=leftimage
 %}
