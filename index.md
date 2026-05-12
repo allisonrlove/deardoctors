@@ -94,16 +94,12 @@ There is also the illegibility of both queerness and the past. We will never ful
 </details>
 
 
-No `header-tier` means hero by default — the image fills 100% of the viewport height. You can also set `header-position` to adjust which part of the image is visible (useful when the focal point isn't centered).
 
 
-## Images
+## The Gendered world of Medicine
 {% capture firstimage %}
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
+TTo understand the pressures Cushier and Blackwell were up against, it is necessary to look at the gendered landscape of the medical world in 19th century America. Up until Emily Blackwell’s sister, Elizabeth Blackwell, became the first female doctor in America, this world of professional medicine excluded women because of the simple fact that they were women. 
+Men created the institutions of medicine to monopolize on the authority of the profession and produced the knowledge that framed women as incapable of becoming doctors due to their fragile minds and bodies. Male doctors pushed Victorian beliefs that women’s minds were not capable of processing higher education and that it was improper for women to become familiar with and touch bodies, even in a medical context. 
 
 {% endcapture %}
 
