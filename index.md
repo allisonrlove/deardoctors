@@ -75,7 +75,6 @@ Mystery Word One: ocean (two responses), queen (two responses), queer (three res
 <p>
 Mystery Word Two: glerte (?), gleret (??), slert (???), Home (two responses), olerie (one response and a real word from the 1890s!), store (one response), shore (one response)
 </p>
-
 </details>
 
 
