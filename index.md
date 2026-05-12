@@ -25,9 +25,16 @@ tags:
 This is an excerpt from a letter sent by Elizabeth Cushier to her long-term partner and housemate, Emily Blackwell, written sometime between 1883-1910. Here, Cushier shows her love and care for the other woman and simultaneously draws a tie between her medical profession and their love. Cushier, also a doctor, in this small excerpt, divulges an intimate connection between love shared amid two women and nineteenth-century medical professionals
 
 
-## The Hero Header
+## Building Careers and Correspondence
 
-When you loaded this page, the image above filled the entire browser window — that's a **hero header**. The site navigation bar disappeared into the image rather than sitting above it, keeping the full visual impact intact. Scroll down a little and notice the essay content begins below the image.
+Living in New York City in the year 1869, a thirty-two year old Elizabeth Cushier took the bold step to join the world of professional medicine. She entered The Women’s Medical College of the New York Infirmary, one of the few institutions in America concerned with the training and staffing of women medical professionals, and her life changed forever. Not only would she become one of the handful of women capable of practicing professional medicine in America, but she would also meet the woman she would spend the rest of her life with, Emily Blackwell. Blackwell herself pioneered women joining the medical profession and became the third female doctor in America after she received her M.D. in 1854. She founded and ran The Women’s Medical College that Cushier decided to attend.  There, in that groundbreaking space, Cushier and Blackwell connected and built their lives together.
+
+Cushier and Blackwell had to contend with a complex relationship between their professional and private lives. In their professional lives, they defied traditional gender roles by assuming a job that actively excluded women. In their private lives, they defied traditional sexual roles by never marrying a man and choosing to live and make a home with a fellow woman doctor. Their letters, between each other, family, and friends, reveal how they navigated their non-normative gender and sexuality. 
+
+Within the intimate form of letters, they created a strict rhetorical line between their work and their home life to maintain their authority and their love for one another. While a non-normative gender or sexuality expression on its own might have been difficult to defend and maintain, the combination of the two that Cushier and Blackwell carried necessitated strategic boundary making to naturalize their relationship and authority as doctors. 
+
+Although they constructed rhetorical boundaries between their professional and private lives, the proximity of their discussions of work and home life shows how Cushier and Blackwell’s relationship could not be separated from their identity as doctors. Meeting and building their relationship in a medical institution, they defined their love through reaffirming each other’s authority as doctors. Their letters demonstrate two things: an ingrained perimeter between the professional and intimate and, simultaneously, a relationship that transcended public and private barriers because of their status as medical professionals. 
+
 
 Hero headers are controlled by three front matter fields at the top of this file:
 
