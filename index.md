@@ -97,9 +97,9 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 <div style="display:flex; gap:20px; margin-top:20px;">
 
-  <img src="assets/images/mystery1.jpg" style="width:50%; height:auto; border-radius:6px;">
+  <img src="/assets/images/mystery1.jpg" style="width:50%; height:auto; border-radius:6px;">
 
-  <img src="assets/images/mystery2.jpg" style="width:50%; height:auto; border-radius:6px;">
+  <img src="/assets/images/mystery2.jpg" style="width:50%; height:auto; border-radius:6px;">
 
 </div>
 
@@ -126,7 +126,7 @@ Under constant surveillance to succeed as both doctors and women, they had to pe
 
 
 
-## Another image
+## Cushier to Blackwell
 {% capture leftimage %}
 Sometime during the time period Cushier and Blackwell lived together, Blackwell left for a year to travel, treat patients, and learn more as a doctor. Shortly before Blackwell returned, Cushier sent her a letter. This letter exemplified the multifold challenges Cushier and Blackwell dealt with as women doctors. 
 
@@ -137,7 +137,7 @@ Cushier began her letter, not with personal updates, but with updates about thre
   image-position="left"
   image-width="50%"
   caption="Dr. Emily Blackwell. Source: https://www.nyclgbtsites.org/site/new-york-infirmary-for-indigent-women-children/."
-  image-path="assests/images/EmilyBlackwell.jpg"
+  image-path="assets/images/EmilyBlackwell.jpg"
   text=leftimage
 %}
 
