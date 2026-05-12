@@ -18,7 +18,8 @@ tags:
     - campus
 ---
 
-“It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here, + that we shall soon be at work again together…believe me as ever dear dear doctor with love from EMC.”[^1]
+{% include typography/pullquote.html text="
+It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here, + that we shall soon be at work again together…believe me as ever dear dear doctor with love from EMC.”[^1] %}
 
 [^1]: Elizabeth Cushier to Emily Blackwell, Letters to Emily Blackwell, n.d.; includes letters from Emily Blackwell's companion, Dr. Elizabeth Cushier, from Mary Putman Jacobi, Marie Blackwell Droussart, and E.S. Minturn re: Harvard Annex entrance examinations, Papers of the Blackwell family, 1831-1981, MC 411, 187., Box 20, Schlesinger Library on the History of Women in America, Harvard Radcliffe Institute. https://id.lib.harvard.edu/ead/c/sch00050c00224/catalog Accessed May 12, 2026.
 
