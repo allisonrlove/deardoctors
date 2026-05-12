@@ -96,7 +96,7 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 
 
-## The Gendered world of Medicine
+## The Gendered World of Medicine
 {% capture firstimage %}
 TTo understand the pressures Cushier and Blackwell were up against, it is necessary to look at the gendered landscape of the medical world in 19th century America. Up until Emily Blackwell’s sister, Elizabeth Blackwell, became the first female doctor in America, this world of professional medicine excluded women because of the simple fact that they were women. 
 
@@ -120,15 +120,18 @@ Under constant surveillance to succeed as both doctors and women, they had to pe
 
 ## Another image
 {% capture leftimage %}
-Images don't have to be on the right. Here's a **left-aligned** image — the text wraps on the other side. Left-aligned images work well when you want to create a different visual rhythm within your essay.
+Sometime during the time period Cushier and Blackwell lived together, Blackwell left for a year to travel, treat patients, and learn more as a doctor. Shortly before Blackwell returned, Cushier sent her a letter. This letter exemplified the multifold challenges Cushier and Blackwell dealt with as women doctors. 
 
-Mixing left and right placement keeps readers' eyes moving, which prevents the page from feeling monotonous. Try alternating sides as you write.
+Cushier began her letter, not with personal updates, but with updates about three patients she worked with. Cushier is very brief in her discussion of the first two patients; she did not name the first patient or their illness. She named the second one, Mrs. M, and identified her as one of Blackwell’s patients who had dysentery. Her letter to the woman she chose to spend the rest of her life with began with a brief, impersonal patient summary. Cushier prioritized their status and relationship as medical professionals over personal pleasantries in this letter. This shows how these women medical professionals balanced their feminine and masculine qualities, even in their intimate letters. Cushier chose to lead with her authoritative, medical voice rather than one of love and domesticity. The burden women faced as medical professionals entrenched a, possibly subconscious, need to assert their medical authority.
+
+While she led with the establishment of her medical authority and made a distinction between discussing their professional and home issues, throughout the letter, Cushier blends her and Blackwell’s medical profession and their personal relationship. She referred to Blackwell as her “own, dear doctor” and her “dear dear doctor,” and, in doing so, combined her affection with her title. Societal pressures conditioned Cushier to separate her emotions from her job, but her non-normative relationship with Blackwell provided avenues to blend and affirm their careers and their love. 
+
 {% endcapture %}
 {% include images/figure-wrap.html
   image-position="left"
   image-width="50%"
   caption="Another seeding! Photo by qinghill on Unsplash"
-  image-path="images/qinghill-x8MZ2MoEKLE-unsplash.jpg"
+  image-path="assests/images/EmilyBlackwell.jpg"
   text=leftimage
 %}
 
