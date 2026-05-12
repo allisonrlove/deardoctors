@@ -93,7 +93,15 @@ There is also the illegibility of both queerness and the past. We will never ful
 </p>
 </details>
 
+## Try Deciphering These Words!
 
+<div style="display:flex; gap:20px; margin-top:20px;">
+
+  <img src="assets/images/mystery1.jpg" style="width:50%; height:auto; border-radius:6px;">
+
+  <img src="assets/images/mystery2.jpg" style="width:50%; height:auto; border-radius:6px;">
+
+</div>
 
 
 ## The Gendered World of Medicine
