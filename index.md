@@ -52,7 +52,7 @@ My thoughts lie somewhere in the middle, in the messiness that queerness often e
 </p>
 </details>
 
-
+<br><br>
 
 <details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
