@@ -52,8 +52,31 @@ My thoughts lie somewhere in the middle, in the messiness that queerness often e
 </p>
 </details>
 
+
+
 <details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
+Notes on Legibility 
+</summary>
+
+<br>
+<p>
+19th century women wrote in beautiful cursive to express their loving thoughts to one another. That cursive is also very difficult to read. While all of the letters used have been transcribed, the transcription for the letter from Cushier to Blackwell had some gaps. With time, I was able to figure out some of these gaps (like how Cushier assured her patient that she was not wicked). However, some words still eluded me, nothing that changed the meaning of the overall text, but it was still frustrating, nonetheless. At the end of her letter, Cushier wrote “It must have seemed real sad my own, dear doctor to say good bye to the (unclear) for a whole year - I often think of it with longing, + shall until I find myself on our (unclear) again. It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here.” This section contained some lovely sentiment that I would have liked to have included, if only not for those unclear words. 
+</p>
+
+<p>
+To solve this, I consulted leading experts on 19th century cursive paleography, aka my friends and family. This was far from rigorous academic data gathering, but it was fun to see what everyone guessed based on the varied context I provided. I gave them the words without any context first, then provided the transcribed quote, and then provided the whole page of the letter. The following is a list of possible guesses to the mystery words:
+</p>
+
+<p>
+Mystery Word One: ocean (two responses), queen (two responses), queer (three responses) 
+</p>
+
+<p>
+Mystery Word Two: glerte (?), gleret (??), slert (???), Home (two responses), olerie (one response and a real word from the 1890s!), store (one response), shore (one response)
+</p>
+
+</details>
 
 
 No `header-tier` means hero by default — the image fills 100% of the viewport height. You can also set `header-position` to adjust which part of the image is visible (useful when the focal point isn't centered).
