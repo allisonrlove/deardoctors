@@ -124,8 +124,6 @@ Sometime during the time period Cushier and Blackwell lived together, Blackwell 
 
 Cushier began her letter, not with personal updates, but with updates about three patients she worked with. Cushier is very brief in her discussion of the first two patients; she did not name the first patient or their illness. She named the second one, Mrs. M, and identified her as one of Blackwell’s patients who had dysentery. Her letter to the woman she chose to spend the rest of her life with began with a brief, impersonal patient summary. Cushier prioritized their status and relationship as medical professionals over personal pleasantries in this letter. This shows how these women medical professionals balanced their feminine and masculine qualities, even in their intimate letters. Cushier chose to lead with her authoritative, medical voice rather than one of love and domesticity. The burden women faced as medical professionals entrenched a, possibly subconscious, need to assert their medical authority.
 
-While she led with the establishment of her medical authority and made a distinction between discussing their professional and home issues, throughout the letter, Cushier blends her and Blackwell’s medical profession and their personal relationship. She referred to Blackwell as her “own, dear doctor” and her “dear dear doctor,” and, in doing so, combined her affection with her title. Societal pressures conditioned Cushier to separate her emotions from her job, but her non-normative relationship with Blackwell provided avenues to blend and affirm their careers and their love. 
-
 {% endcapture %}
 {% include images/figure-wrap.html
   image-position="left"
@@ -135,7 +133,7 @@ While she led with the establishment of her medical authority and made a distinc
   text=leftimage
 %}
 
-
+While she led with the establishment of her medical authority and made a distinction between discussing their professional and home issues, throughout the letter, Cushier blends her and Blackwell’s medical profession and their personal relationship. She referred to Blackwell as her “own, dear doctor” and her “dear dear doctor,” and, in doing so, combined her affection with her title. Societal pressures conditioned Cushier to separate her emotions from her job, but her non-normative relationship with Blackwell provided avenues to blend and affirm their careers and their love. 
 
 ## Standalone Images
 
