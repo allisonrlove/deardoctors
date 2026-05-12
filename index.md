@@ -2,7 +2,7 @@
 title: Final Project
 author: Allison Love
 layout: scrollstory
-date: 2025-07-21
+date: 2026-5-12
 thumbnail: images/seedling-card.jpg
 summary: 
 header-image: assets/images/cushier1.jpg
