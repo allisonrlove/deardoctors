@@ -99,6 +99,7 @@ There is also the illegibility of both queerness and the past. We will never ful
 ## The Gendered world of Medicine
 {% capture firstimage %}
 TTo understand the pressures Cushier and Blackwell were up against, it is necessary to look at the gendered landscape of the medical world in 19th century America. Up until Emily Blackwell’s sister, Elizabeth Blackwell, became the first female doctor in America, this world of professional medicine excluded women because of the simple fact that they were women. 
+
 Men created the institutions of medicine to monopolize on the authority of the profession and produced the knowledge that framed women as incapable of becoming doctors due to their fragile minds and bodies. Male doctors pushed Victorian beliefs that women’s minds were not capable of processing higher education and that it was improper for women to become familiar with and touch bodies, even in a medical context. 
 
 {% endcapture %}
@@ -106,12 +107,15 @@ Men created the institutions of medicine to monopolize on the authority of the p
 {% include images/figure-wrap.html
   image-position="right"
   image-width="48%"
-  caption='A garden path winding through lush greenery. Photo by Pao Dayag on Unsplash.'
+  caption='Dr. Elizabeth Cushier. Source: Lilian Faderman *To Believe in Women*.'
   image-path="assets/images/ElizabethCushier.PNG"
   text=firstimage
 %}
 
-Footnotes work normally in ScrollStories — you can place them anywhere in the page flow.
+Women, like Cushier and Blackwell, also had to balance societal notions of masculinity and femininity as doctors. People expected doctors to be authoritative, stoic experts in their fields. However, women who displayed these characteristics were shamed for being manly and unladylike. Being viewed as a good doctor came at the cost of losing one’s womanhood, and being viewed as a good woman came at the cost of losing one’s authority as a doctor. Women doctors carefully negotiated how they presented themselves to the public, to their professional peers, and to their patients. 
+
+Under constant surveillance to succeed as both doctors and women, they had to perform a precise rhetoric that found equilibrium between the two roles. It is no surprise, then, that Cushier and Blackwell’s letters starkly demark between their public and private lives. So ingrained was the need to establish their power as doctors, that they had to reassert their authority to even their most trusted companions in the most personal correspondence. 
+
 
 
 ## Another image
