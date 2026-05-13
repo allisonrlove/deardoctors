@@ -243,7 +243,7 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
 
 [^7]
 
-[^7]:Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964., Jessie Vander Heide, ““Under the Guise of Friendship”: Sentimental Intimacies and the Specter of “Unnatural” Sexuality at Nineteenth-Century Female Academies,” Journal of the History of Sexuality 34, no. 1 (2025):96.
+[^7]:Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964., Jessie Vander Heide, ““Under the Guise of Friendship”: Sentimental Intimacies and the Specter of “Unnatural” Sexuality at Nineteenth-Century Female Academies,” Journal of the History of Sexuality 34, no. 1 (2025):96., Marylynne Diggs, “Romantic Friends or a "Different Race of Creatures"? The Representation of Lesbian Pathology in Nineteenth-Century America,” Feminist Studies 21, no. 2 (1995): 317-340. 
 
 ## Blackwell to Blackwell
 
