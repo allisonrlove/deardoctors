@@ -201,16 +201,16 @@ The third patient that Cushier informs Blackwell about in her letter illustrates
 She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. responded positively to her own treatment. In doing so, although she does not state it outright, Cushier subtly implies that her knowledge and expertise were superior to Thompson’s. While the ingrained desire to prove her medical authority might have led Cushier to present her medical knowledge first, she did not conform to the expectation that women doctors should show humility so as not to appear brusque and masculine. Cushier and Blackwell created a space where they asserted their medical authority over men without fear of consequences
 
 <div style="
-  background:#1f2a44;
-  color:#f5f5f5;
+  background:#A3B18A;
+  color:#F5F1E6;
   padding:40px;
   border-radius:12px;
   margin:40px 0;
 ">
 
   <h2 style="
-    background:#b56a5a;
-    color:white;
+    background:#6B7D5A;
+    color:#F5F1E6;
     padding:12px 18px;
     border-radius:8px;
     display:inline-block;
@@ -220,23 +220,15 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
   </h2>
 
   <p>
-    Beyond their professional relationship, Cushier and Blackwell were in a queer relationship from 1883 until Blackwell’s death in 1910. To recognize this relationship as queer, one needs to know the sexual and gender norms of the late 19th and early 20th centuries.
+    Beyond their professional relationship, Cushier and Blackwell were in a queer relationship from 1883 until Blackwell’s death in 1910. To recognize this relationship as queer, one needs to know the sexual and gender norms of the late 19th and early 20th centuries. In the histories of women’s sexuality in the 19th century, early scholars named seemingly homosexual relationships between women as ‘romantic friendships’. This category proposes that society accepted close female relationships, where women discussed their love and longing for one another, as a normal part of girlhood and womanhood. These relationships could be passionate and loving but, ultimately, platonic and unconsummated. It could be easy to frame Cushier and Blackwell’s relationship as one of these romantic friendships. However, their connection existed beyond a normative expression of female romantic friendship. 
   </p>
 
   <p>
-    In the histories of women’s sexuality in the 19th century, early scholars named seemingly homosexual relationships between women as ‘romantic friendships’. This category proposes that society accepted close female relationships, where women discussed their love and longing for one another, as a normal part of girlhood and womanhood.
+    More recent scholars have returned to the idea of ‘romantic friendships’ and question if it encompasses the scope of female relationships in the 19th century. They show that in the mid to late 1800s, sexuality became more and more pathologized. While early 19th century loving relationships between women might have been socially acceptable, by mid-century, society stigmatized perceived romantic connections and implied sexual behaviors between women. Cushier and Blackwell lived together and expressed their love for one another at a time when their love could have faced serious pushback.  
   </p>
 
   <p>
-    These relationships could be passionate and loving but, ultimately, platonic and unconsummated. It could be easy to frame Cushier and Blackwell’s relationship as one of these romantic friendships. However, their connection existed beyond a normative expression of female romantic friendship.
-  </p>
-
-  <p>
-    More recent scholars have returned to the idea of ‘romantic friendships’ and question if it encompasses the scope of female relationships in the 19th century...
-  </p>
-
-  <p>
-    Besides existing in a period where their love came with stigma, Cushier and Blackwell were well past the age where people viewed romantic friendship as acceptable...
+    Besides existing in a period where their love came with stigma, Cushier and Blackwell were well past the age where people viewed romantic friendship as acceptable. With romantic friendships, society allowed girls and young women to explore these connections in their youth, but, as they grew older, they were required to find husbands. They could carry these connections into their marriages, but people saw eventually establishing a real romantic, heterosexual relationship as a vital part of romantic friendships. At thirty-two and forty-three, people expected Cushier and Blackwell to be married to men and to probably have had children. Instead, they lived with each other, unmarried for their whole lives. 
   </p>
 
 </div>
