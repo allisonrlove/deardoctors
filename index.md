@@ -233,6 +233,28 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
 
 </div>
 
+## Blackwell to Blackwell
+
+
+{% capture blackwell_letter %}
+Emily Blackwell’s letter, written February 6, 1896, to her older sister, Elizabeth Blackwell, shows how Cushier and Emily Blackwell blurred their professional and home lives to both naturalize their relationship and establish their medical authority. Like Cushier’s letter, Emily Blackwell began her letter to her sister with updates on health. In this case, Emily was the one who was ill. So ill in fact, that she believed that she might die. She writes how “Dr. Cushier and Dr Daniel were very anxious. My heart was very much oppressed, and became very irregular, my pulse slow and intermittent…I thought I shd probably die in the very early morning.” Although she expressed that she felt no fear of dying, she fought through her illness when she “heard from Dr C's voice that she was greatly troubled.”
+
+In her writing, she displayed her symptoms to her sister in a very detached manner, as if she discussed a patient who was not herself. The more personal parts of the letter came through when she wrote about Cushier’s anxiety and worry about her. Emily Blackwell simultaneously presented Cushier as both a medical professional and loving companion. In referring to her in context with the other doctors present and how they treated her illness, Emily solidified Cushier’s medical authority and justified her presence in her home. By implying that Cushier’s worries brought her back from the brink of death, Emily further justified their non-normative relationship to her sister while tying this bond to their positions as doctors.
+
+She also, after providing medical news, updated her sister about household goings-on that happened while she was still bedridden. She told her sister that while she was recovering, “No one could be more kind, devoted, and helpful than Dr Cushier was, the whole household was run for our help and convenience... In no branch of the family could a sick member have been so well cared for, and there is not one of my own family who could or would have done so much for me.” In a more overt way than in the beginning of her letter, Emily connected Cushier’s medical authority, care, and presence in her home. She laid out how Cushier was capable of taking care of her health and functioned as a member of her own family. The letter followed the same format as Cushier’s, where their professional, medical work took precedence over their personal, household updates. However, also like Cushier’s letter, it made their careers and their affection inseparable.
+{% endcapture %}
+
+{% include typography/pullquote.html text="
+Emily simultaneously presented Cushier as both a medical professional and loving companion, tying care, authority, and intimacy together.
+" %}
+
+{% include images/figure-wrap.html
+  image-position="right"
+  image-width="48%"
+  caption="Letter from Emily Blackwell to Elizabeth Blackwell"
+  image-path="assets/images/etoe1.jpg"
+  text=blackwell_letter
+%}
 
 
 ## Section Headings Create Visual Breaks
