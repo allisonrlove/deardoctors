@@ -50,11 +50,13 @@ Historians of sexuality, and historians in general, frequently debate whether or
 </p>
 
 <p>
-My thoughts lie somewhere in the middle, in the messiness that queerness often exists in. For this reason, I will refer to Cushier and Blackwell’s relationship as queer. I define queer as deviant from normative sexual and gender roles. Their relationship existed outside the bonds of normative sexualities (the specifics of which will be discussed later), and they shared a deep, emotional, if not physical, love together. I use queer here as an analytical category rather than a label. They may have thought of themselves and their relationship the way we conceptualize modern lesbians, and historians have categorized them this way, but it is impossible to know anything for certain beyond what their sources tell us. [^3]
-
-[^3]: For more information on debates about queer studies check out: John Boswell “IV: Towards The Long View Revolutions, Universals and Sexual Categories.” Salmagundi, no. 58/59 (1982): 89–113. http://www.jstor.org/stable/40547566.
+My thoughts lie somewhere in the middle, in the messiness that queerness often exists in. For this reason, I will refer to Cushier and Blackwell’s relationship as queer. I define queer as deviant from normative sexual and gender roles. Their relationship existed outside the bonds of normative sexualities (the specifics of which will be discussed later), and they shared a deep, emotional, if not physical, love together. I use queer here as an analytical category rather than a label. They may have thought of themselves and their relationship the way we conceptualize modern lesbians, and historians have categorized them this way, but it is impossible to know anything for certain beyond what their sources tell us.
 </p>
 </details>
+
+[^3] 
+
+[^3]:For more information on debates about queer studies check out: John Boswell “IV: Towards The Long View Revolutions, Universals and Sexual Categories.” Salmagundi, no. 58/59 (1982): 89–113. http://www.jstor.org/stable/40547566.
 
 <br><br>
 
