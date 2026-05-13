@@ -293,46 +293,37 @@ She also, after providing medical news, updated her sister about household going
 <div style="
   width: 100vw;
   margin-left: calc(50% - 50vw);
-  background: linear-gradient(180deg, #A3B18A 0%, #6B7D5A 100%);
+  background: linear-gradient(180deg, #6B7D5A 0%, #3F4A37 100%);
   color: #F5F1E6;
-  padding: 100px 10vw;
+  padding: 120px 12vw;
   box-sizing: border-box;
-  text-align: left;
+  display: flex;
+  justify-content: center;
 ">
 
-  <h2 style="
-    color: #F5F1E6;
-    font-size: 2.4em;
-    margin-bottom: 30px;
-    border-bottom: 2px solid rgba(245,241,230,0.4);
-    padding-bottom: 12px;
+  <div style="
+    max-width: 900px;
+    text-align: center;
   ">
-    Conclusion
-  </h2>
 
-  <p style="font-size:1.1em; line-height:1.8; margin-bottom:18px;">
-    The Blackwell family papers, which now live at the Library of Congress, in general, contain little mention of Elizabeth Cushier and Emily Blackwell’s relationship. This absence could reflect multiple possibilities. It is possible Cushier and Blackwell simply did not preserve their correspondence. Their story may also have been seen as less central to the broader Blackwell narrative, which prominently features figures such as Elizabeth Blackwell. It is also possible that their relationship was deliberately excluded from archival preservation, whether to protect them or to obscure them. The truth of this absence remains unknowable.
-  </p>
+    <h2 style="
+      color: #F5F1E6;
+      font-size: 2.4em;
+      margin-bottom: 35px;
+      border-bottom: 1px solid rgba(245,241,230,0.35);
+      padding-bottom: 12px;
+      display: inline-block;
+    ">
+      Conclusion
+    </h2>
 
-  <p style="font-size:1.1em; line-height:1.8; margin-bottom:18px;">
-    What remains in the archives, however, still gestures toward a relationship marked by deep emotional and intellectual intimacy. The surviving letters and records suggest two women deeply connected, whose shared medical practice shaped not only their professional authority but also the life they built together.
-  </p>
+    <p style="line-height:1.9; margin-bottom:18px;">
+      The Blackwell family papers, which now live at the Library of Congress, in general, contain little mention of Elizabeth Cushier and Emily Blackwell’s relationship. This could be for many reasons. First, it is possible Cushier and Blackwell simply did not preserve any of their letters or papers together. Second, their story could have been viewed as less important to the overall narrative of the Blackwells that had such prominent figures, such as Elizabeth Blackwell. Last, their papers could have been purposefully excluded because they had a queer relationship. This could have been done to protect them or to hide them; we will never know for sure. However, what still exists in the archives paints a picture of two women deeply enamored with each other whose combined medical knowledge helped any number of patients, including themselves. Cushier and Blackwell used rhetorical strategies to relate their medical profession to their relationship. This process served to naturalize and normalize both their authority as women doctors and their queer relationship. Working against a society and culture that disparaged both their profession and their relationship, they built fruitful careers and a loving home.
+    </p>
 
-  <p style="font-size:1.1em; line-height:1.8; margin-bottom:18px;">
-    Cushier and Blackwell used rhetorical strategies to link their medical work with their relationship, a process that helped naturalize both their authority as women doctors and their queer partnership. Working against a society that often dismissed both their profession and their intimacy, they nevertheless built sustaining careers and a shared domestic life grounded in care, expertise, and mutual recognition.
-  </p>
-
-  <p style="
-    font-size:1.2em;
-    margin-top:40px;
-    font-style:italic;
-    opacity:0.95;
-  ">
-    In the gaps of the archive, what remains is not absence, but a trace of connection.
-  </p>
+  </div>
 
 </div>
-
 ## Section Headings Create Visual Breaks
 Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
 
