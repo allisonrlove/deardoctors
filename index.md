@@ -112,7 +112,7 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 ## The Gendered World of Medicine
 {% capture firstimage %}
-TTo understand the pressures Cushier and Blackwell were up against, it is necessary to look at the gendered landscape of the medical world in 19th century America. Up until Emily Blackwell’s sister, Elizabeth Blackwell, became the first female doctor in America, this world of professional medicine excluded women because of the simple fact that they were women. 
+To understand the pressures Cushier and Blackwell were up against, it is necessary to look at the gendered landscape of the medical world in 19th century America. Up until Emily Blackwell’s sister, Elizabeth Blackwell, became the first female doctor in America, this world of professional medicine excluded women because of the simple fact that they were women. 
 
 Men created the institutions of medicine to monopolize on the authority of the profession and produced the knowledge that framed women as incapable of becoming doctors due to their fragile minds and bodies. Male doctors pushed Victorian beliefs that women’s minds were not capable of processing higher education and that it was improper for women to become familiar with and touch bodies, even in a medical context.[^4]
 
@@ -242,7 +242,11 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
 </div>
 
 <p style="font-size:0.9em; margin-top:20px;">
-<sup>9</sup> Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964., Jessie Vander Heide, ““Under the Guise of Friendship”: Sentimental Intimacies and the Specter of “Unnatural” Sexuality at Nineteenth-Century Female Academies,” Journal of the History of Sexuality 34, no. 1 (2025):96., Marylynne Diggs, “Romantic Friends or a "Different Race of Creatures"? The Representation of Lesbian Pathology in Nineteenth-Century America,” Feminist Studies 21, no. 2 (1995): 317-340.
+<sup>9</sup> Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964.
+
+Jessie Vander Heide, ““Under the Guise of Friendship”: Sentimental Intimacies and the Specter of “Unnatural” Sexuality at Nineteenth-Century Female Academies,” Journal of the History of Sexuality 34, no. 1 (2025):96.
+
+Marylynne Diggs, “Romantic Friends or a "Different Race of Creatures"? The Representation of Lesbian Pathology in Nineteenth-Century America,” Feminist Studies 21, no. 2 (1995): 317-340.
 </p> 
 
 ## Blackwell to Blackwell
