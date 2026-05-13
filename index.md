@@ -267,7 +267,9 @@ Emily simultaneously presented Cushier as both a medical professional and loving
 
 In her writing, she displayed her symptoms to her sister in a very detached manner, as if she discussed a patient who was not herself. The more personal parts of the letter came through when she wrote about Cushier’s anxiety and worry about her. Emily Blackwell simultaneously presented Cushier as both a medical professional and loving companion. In referring to her in context with the other doctors present and how they treated her illness, Emily solidified Cushier’s medical authority and justified her presence in her home. By implying that Cushier’s worries brought her back from the brink of death, Emily further justified their non-normative relationship to her sister while tying this bond to their positions as doctors.
 
-She also, after providing medical news, updated her sister about household goings-on that happened while she was still bedridden. She told her sister that while she was recovering, “No one could be more kind, devoted, and helpful than Dr Cushier was, the whole household was run for our help and convenience... In no branch of the family could a sick member have been so well cared for, and there is not one of my own family who could or would have done so much for me.” In a more overt way than in the beginning of her letter, Emily connected Cushier’s medical authority, care, and presence in her home. She laid out how Cushier was capable of taking care of her health and functioned as a member of her own family. The letter followed the same format as Cushier’s, where their professional, medical work took precedence over their personal, household updates. However, also like Cushier’s letter, it made their careers and their affection inseparable.
+She also, after providing medical news, updated her sister about household goings-on that happened while she was still bedridden. She told her sister that while she was recovering, “No one could be more kind, devoted, and helpful than Dr Cushier was, the whole household was run for our help and convenience... In no branch of the family could a sick member have been so well cared for, and there is not one of my own family who could or would have done so much for me.” In a more overt way than in the beginning of her letter, Emily connected Cushier’s medical authority, care, and presence in her home. She laid out how Cushier was capable of taking care of her health and functioned as a member of her own family. The letter followed the same format as Cushier’s, where their professional, medical work took precedence over their personal, household updates. However, also like Cushier’s letter, it made their careers and their affection inseparable.[^8]
+
+[^8]: Emily Blackwell to Elizabeth Blackwell, Blackwell Family, Blackwell Family Papers: Other Blackwell Family Papers, -1945; Emily Blackwell Papers, 1850 to 1910; Correspondence; Family; Blackwell, Elizabeth; 1895 to 1896. - 1896, 1895, Manuscript/Mixed Material. https://www.loc.gov/item/mss1288002171/.
 
 <div style="
   width: 100vw;
@@ -301,6 +303,10 @@ She also, after providing medical news, updated her sister about household going
   </p>
 
 </div>
+
+<p style="font-size:0.9em; margin-top:20px;">
+<sup>1</sup> Kitty Barry Blackwell to Elizabeth Cushier, Blackwell Family, Blackwell Family Papers: Kitty Barry Blackwell Papers, -1938; General Correspondence, 1867 to 1934; Cushier, E. M. - 1938, 1855. Manuscript/Mixed Material. https://www.loc.gov/item/mss1288001553/.
+</p>
 
 <div style="
   width: 100vw;
