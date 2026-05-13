@@ -144,11 +144,6 @@ Cushier began her letter, not with personal updates, but with updates about thre
 
 While she led with the establishment of her medical authority and made a distinction between discussing their professional and home issues, throughout the letter, Cushier blends her and Blackwell’s medical profession and their personal relationship. She referred to Blackwell as her “own, dear doctor” and her “dear dear doctor,” and, in doing so, combined her affection with her title. Societal pressures conditioned Cushier to separate her emotions from her job, but her non-normative relationship with Blackwell provided avenues to blend and affirm their careers and their love. 
 
-## Standalone Images
-
-Not every image needs text beside it. The **standalone figure** sits within the text flow with its own caption. Here's one centered in the page:
-
-{% include images/figure.html class="center" width="80%" caption="Close up of a seeding in beautiful soil, centered, at 80% width." image-path="images/daniel-dan--FMxvHTCRmw-unsplash.jpg" %}
 
 <div style="
   position: relative;
@@ -324,83 +319,3 @@ She also, after providing medical news, updated her sister about household going
   </div>
 
 </div>
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes both writing and reading much easier. You can also use **bold** text to start paragraphs or inside, just put `**` at the beginning and end of the bold part, like `**Why this matters:**`
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
-
-
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/pullquote.html text="
-This is a pull quote—a design element that highlights important text or quotations. Place it between paragraphs for visual emphasis. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` component, one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-
-
-
-### Subsection Headings (Optional)
-If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
-
-
-
-## Alert Boxes for Key Information
-Sometimes you need to draw attention to something important — a tip, a warning, or a key piece of context. Alert boxes do this:
-
-{% include typography/alert.html
-  class="info"
-  title="Tip"
-  text="Alert boxes come in several colors: **info** (blue), **warning** (yellow), **danger** (red), and **success** (green). Use them sparingly — if everything is highlighted, nothing stands out."
-%}
-
-Alert boxes support full Markdown inside, including bold, links, and lists. They're especially useful in instructional essays where you need to flag things readers should pay attention to.
-
-
-## Block Quotes for Extended Quotations
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
-
-
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
-
-
-
-## The Rhythm of a ScrollStory
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
-
-**Think about pacing.** Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
-
-
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links (both standalone and wrapped with text)
-- Place images on either side of the page (left or right)
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Add alert boxes for tips and warnings
-
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays use addtional Xanthan components, but this foundation works for many projects, especially when just getting used to designing an essay.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
-
-
-## Ready to Create Your Own?
-
-**New to Xanthan?** Start with the [Getting Started guide](../../../docs/getting-started/) to create your own site first. Once you have a working site, you'll have your own scrollstory you can edit.
-
-Start simple. Get comfortable with the basics. You can always add complexity later by copying and pasting elements from the other essays.
-
-To see more components in action, head over to the [Sapling Essay](../sapling).
