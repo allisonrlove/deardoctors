@@ -193,6 +193,13 @@ Not every image needs text beside it. The **standalone figure** sits within the 
   </div>
 </div>
 
+## Cushier to Blackwell Continued 
+
+
+The third patient that Cushier informs Blackwell about in her letter illustrates how the two women found solidarity in one another and how they complicated the boundary between their public and private lives. Cushier described a patient, E.G., and her unfavorable diagnosis to Blackwell. In the process, she mentioned a different doctor, a male doctor, who E.G.’s parents decided to summon along with Cushier. She explained how this doctor, Dr. Thompson, took “a very unfavorable view of the case, even more so than I did” and how he believed “the best thing would be for her to be sent away.” E.G. suffered from various fits where she would curse or hold completely still and unblinking. Although Cushier believed her prognosis to be grim, she recommended rest, rather than sending her away, so she could be surrounded by her loved ones. To comfort E.G., Cushier “labored hard to make her feel that she is ill and not wicked.” 
+
+She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. responded positively to her own treatment. In doing so, although she does not state it outright, Cushier subtly implies that her knowledge and expertise were superior to Thompson’s. While the ingrained desire to prove her medical authority might have led Cushier to present her medical knowledge first, she did not conform to the expectation that women doctors should show humility so as not to appear brusque and masculine. Cushier and Blackwell created a space where they asserted their medical authority over men without fear of consequences
+
 
 ## Section Headings Create Visual Breaks
 Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
