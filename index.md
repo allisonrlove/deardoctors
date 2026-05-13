@@ -257,6 +257,39 @@ In her writing, she displayed her symptoms to her sister in a very detached mann
 
 She also, after providing medical news, updated her sister about household goings-on that happened while she was still bedridden. She told her sister that while she was recovering, “No one could be more kind, devoted, and helpful than Dr Cushier was, the whole household was run for our help and convenience... In no branch of the family could a sick member have been so well cared for, and there is not one of my own family who could or would have done so much for me.” In a more overt way than in the beginning of her letter, Emily connected Cushier’s medical authority, care, and presence in her home. She laid out how Cushier was capable of taking care of her health and functioned as a member of her own family. The letter followed the same format as Cushier’s, where their professional, medical work took precedence over their personal, household updates. However, also like Cushier’s letter, it made their careers and their affection inseparable.
 
+<div style="
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  background: #A3B18A;
+  color: #F5F1E6;
+  padding: 80px 10vw;
+  box-sizing: border-box;
+">
+
+  <h2 style="
+    color: #F5F1E6;
+    font-size: 2.2em;
+    margin-bottom: 25px;
+    border-bottom: 2px solid rgba(245,241,230,0.4);
+    padding-bottom: 10px;
+  ">
+    The Blackwell Family
+  </h2>
+
+  <p>
+    The Blackwell family embraced Cushier and Blackwell’s relationship in part as a result of Cushier and Blackwell’s letters. On January 30, 1901, Cushier penned a letter to Kitty Barry Blackwell, the adopted daughter of Elizabeth Blackwell. In it, she responded to a Christmas letter that Kitty had sent to both Cushier and Blackwell. This shows how the larger Blackwell family considered Cushier to be part of the family and recognized their shared household. Also in the letter, Cushier refers to Blackwell as “my doctor.” The possessive, once again, associated Blackwell’s profession with her relationship with Cushier.
+  </p>
+
+  <p>
+    Ethel Blackwell Robinson’s letter to Blackwell and Cushier similarly shows the Blackwell family’s treatment of Cushier and Blackwell as a unit. In her letter, she described mundane aspects of her trip and her great relationship with her new husband. Ethel addressed the letter to both “Aunt Emily and Dr. Cushier,” showing a desire for both Blackwell and Cushier to know the little aspects of her life, as one would with family members.
+  </p>
+
+  <p>
+    The Blackwell family treated Cushier and Blackwell as doctors and as an inseparable pair.
+  </p>
+
+</div>
+
 ## Section Headings Create Visual Breaks
 Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
 
