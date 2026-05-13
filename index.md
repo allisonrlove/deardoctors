@@ -58,7 +58,6 @@ My thoughts lie somewhere in the middle, in the messiness that queerness often e
 
 [^3]:For more information on debates about queer studies check out: John Boswell “IV: Towards The Long View Revolutions, Universals and Sexual Categories.” Salmagundi, no. 58/59 (1982): 89–113. http://www.jstor.org/stable/40547566.
 
-<br><br>
 
 <details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8;margin-bottom:30px;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
@@ -115,7 +114,9 @@ There is also the illegibility of both queerness and the past. We will never ful
 {% capture firstimage %}
 TTo understand the pressures Cushier and Blackwell were up against, it is necessary to look at the gendered landscape of the medical world in 19th century America. Up until Emily Blackwell’s sister, Elizabeth Blackwell, became the first female doctor in America, this world of professional medicine excluded women because of the simple fact that they were women. 
 
-Men created the institutions of medicine to monopolize on the authority of the profession and produced the knowledge that framed women as incapable of becoming doctors due to their fragile minds and bodies. Male doctors pushed Victorian beliefs that women’s minds were not capable of processing higher education and that it was improper for women to become familiar with and touch bodies, even in a medical context. 
+Men created the institutions of medicine to monopolize on the authority of the profession and produced the knowledge that framed women as incapable of becoming doctors due to their fragile minds and bodies. Male doctors pushed Victorian beliefs that women’s minds were not capable of processing higher education and that it was improper for women to become familiar with and touch bodies, even in a medical context.[^4]
+
+[^4]: Carla Bittle Mary Putnam Jacobi and the Politics of Medicine in Nineteenth-Century America (The University of North Carolina Press, 2009), 2.
 
 {% endcapture %}
 
@@ -129,7 +130,9 @@ Men created the institutions of medicine to monopolize on the authority of the p
 
 Women, like Cushier and Blackwell, also had to balance societal notions of masculinity and femininity as doctors. People expected doctors to be authoritative, stoic experts in their fields. However, women who displayed these characteristics were shamed for being manly and unladylike. Being viewed as a good doctor came at the cost of losing one’s womanhood, and being viewed as a good woman came at the cost of losing one’s authority as a doctor. Women doctors carefully negotiated how they presented themselves to the public, to their professional peers, and to their patients. 
 
-Under constant surveillance to succeed as both doctors and women, they had to perform a precise rhetoric that found equilibrium between the two roles. It is no surprise, then, that Cushier and Blackwell’s letters starkly demark between their public and private lives. So ingrained was the need to establish their power as doctors, that they had to reassert their authority to even their most trusted companions in the most personal correspondence. 
+Under constant surveillance to succeed as both doctors and women, they had to perform a precise rhetoric that found equilibrium between the two roles. It is no surprise, then, that Cushier and Blackwell’s letters starkly demark between their public and private lives. So ingrained was the need to establish their power as doctors, that they had to reassert their authority to even their most trusted companions in the most personal correspondence.[^5] 
+
+[^5]: Carolyn Skinner, Women Physicians and Professional Ethos in Nineteenth-Century America (SIU Press, 2014), 2-3. 
 
 
 
@@ -193,6 +196,10 @@ While she led with the establishment of her medical authority and made a distinc
 
   </div>
 </div>
+
+[^6]
+
+[^6]: Virginia G. Drachman, “Female Solidarity and Professional Success: The Dilemma of Women Doctors in Late Nineteenth-Century America.” Journal of Social History 15, no. 4 (1982): 616.
 
 ## Cushier to Blackwell Continued 
 
