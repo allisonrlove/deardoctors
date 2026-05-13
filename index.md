@@ -241,9 +241,9 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
 
 </div>
 
-[^7]
-
-[^7]:Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964., Jessie Vander Heide, ““Under the Guise of Friendship”: Sentimental Intimacies and the Specter of “Unnatural” Sexuality at Nineteenth-Century Female Academies,” Journal of the History of Sexuality 34, no. 1 (2025):96., Marylynne Diggs, “Romantic Friends or a "Different Race of Creatures"? The Representation of Lesbian Pathology in Nineteenth-Century America,” Feminist Studies 21, no. 2 (1995): 317-340. 
+<p style="font-size:0.9em; margin-top:20px;">
+<sup>9</sup> Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964., Jessie Vander Heide, ““Under the Guise of Friendship”: Sentimental Intimacies and the Specter of “Unnatural” Sexuality at Nineteenth-Century Female Academies,” Journal of the History of Sexuality 34, no. 1 (2025):96., Marylynne Diggs, “Romantic Friends or a "Different Race of Creatures"? The Representation of Lesbian Pathology in Nineteenth-Century America,” Feminist Studies 21, no. 2 (1995): 317-340.
+</p> 
 
 ## Blackwell to Blackwell
 
@@ -305,7 +305,11 @@ She also, after providing medical news, updated her sister about household going
 </div>
 
 <p style="font-size:0.9em; margin-top:20px;">
-<sup>1</sup> Kitty Barry Blackwell to Elizabeth Cushier, Blackwell Family, Blackwell Family Papers: Kitty Barry Blackwell Papers, -1938; General Correspondence, 1867 to 1934; Cushier, E. M. - 1938, 1855. Manuscript/Mixed Material. https://www.loc.gov/item/mss1288001553/.
+<sup>9</sup> Kitty Barry Blackwell to Elizabeth Cushier, Blackwell Family, Blackwell Family Papers: Kitty Barry Blackwell Papers, -1938; General Correspondence, 1867 to 1934; Cushier, E. M. - 1938, 1855. Manuscript/Mixed Material. https://www.loc.gov/item/mss1288001553/.
+</p>
+
+<p style="font-size:0.9em; margin-top:20px;">
+<sup>10</sup> Ethel Robinson-Blackwell to Emily Blackwell and Elizabeth Cushier, Blackwell Family, Blackwell Family Papers: Other Blackwell Family Papers, -1945; Ethel Blackwell Robinson Papers, 1901 to 1943; Correspondence; Blackwell, Emily. - 1945, 1834. Manuscript/Mixed Material. https://www.loc.gov/item/mss1288002212/.
 </p>
 
 <div style="
