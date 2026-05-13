@@ -199,7 +199,7 @@ While she led with the establishment of her medical authority and made a distinc
 
 [^6]
 
-[^6]: Virginia G. Drachman, “Female Solidarity and Professional Success: The Dilemma of Women Doctors in Late Nineteenth-Century America.” Journal of Social History 15, no. 4 (1982): 616.
+[^6]: Virginia G. Drachman, “Female Solidarity and Professional Success: The Dilemma of Women Doctors in Late Nineteenth-Century America.” Journal of Social History 15, no. 4 (1982): 616., Faderman, *To Believe in Women*, 287. 
 
 ## Cushier to Blackwell Continued 
 
@@ -240,6 +240,10 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
   </p>
 
 </div>
+
+[^7]
+
+[^7]:Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964.
 
 ## Blackwell to Blackwell
 
