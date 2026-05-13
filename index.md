@@ -103,6 +103,7 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 </div>
 
+<br><br>
 
 ## The Gendered World of Medicine
 {% capture firstimage %}
@@ -149,6 +150,48 @@ Not every image needs text beside it. The **standalone figure** sits within the 
 
 {% include images/figure.html class="center" width="80%" caption="Close up of a seeding in beautiful soil, centered, at 80% width." image-path="images/daniel-dan--FMxvHTCRmw-unsplash.jpg" %}
 
+<div style="
+  position: relative;
+  padding: 40px;
+  border-radius: 12px;
+  color: white;
+  overflow: hidden;
+  margin: 40px 0;
+">
+
+  <!-- background image -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/assets/images/cushier4jpg');
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.5);
+    z-index: 0;
+  "></div>
+
+  <!-- text content -->
+  <div style="position: relative; z-index: 1;">
+
+    <h2>Solidarity</h2>
+
+    <p>
+    Apart from their conflict with male medical professionals and masculinity, women doctors experienced complicated relationships among themselves as well. As women began to enter the field in the mid-1900s, they formed their learning institutions and professional relationships for each other. They stressed female solidarity as paramount to the experience of being a woman doctor. If men were not going to give them opportunities and careers, they would create them amongst themselves. 
+    </p>
+
+    <p>
+    However, as time passed and more and more women entered the field of professional medicine, the learning experiences and job options for younger women medical professionals seemed incredibly limited. If they stuck with the women-only opportunities, they would be limited in their professional development. This caused tension between the older generations of women medical professionals and the younger ones. They had to choose between camaraderie with other women and their trajectory as medical professionals. 
+    </p>
+
+    <p>
+    Cushier and Blackwell existed within this tension. Cushier was eleven years younger than Blackwell, and Blackwell mentored Cushier at school. Their generational divide in the medical profession could have caused strain in their relationship. However, they formed both a deep and meaningful relationship with one another and fulfilling careers. They grappled with professional pressures both internally and externally and created intricate kinship networks that served to validate their positions as doctors and as partners. 
+    </p>
+
+  </div>
+</div>
 
 
 ## Section Headings Create Visual Breaks
