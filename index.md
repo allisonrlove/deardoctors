@@ -200,6 +200,48 @@ The third patient that Cushier informs Blackwell about in her letter illustrates
 
 She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. responded positively to her own treatment. In doing so, although she does not state it outright, Cushier subtly implies that her knowledge and expertise were superior to Thompson’s. While the ingrained desire to prove her medical authority might have led Cushier to present her medical knowledge first, she did not conform to the expectation that women doctors should show humility so as not to appear brusque and masculine. Cushier and Blackwell created a space where they asserted their medical authority over men without fear of consequences
 
+<div style="
+  background:#1f2a44;
+  color:#f5f5f5;
+  padding:40px;
+  border-radius:12px;
+  margin:40px 0;
+">
+
+  <h2 style="
+    background:#b56a5a;
+    color:white;
+    padding:12px 18px;
+    border-radius:8px;
+    display:inline-block;
+    margin-bottom:20px;
+  ">
+    19th Century Queer Love
+  </h2>
+
+  <p>
+    Beyond their professional relationship, Cushier and Blackwell were in a queer relationship from 1883 until Blackwell’s death in 1910. To recognize this relationship as queer, one needs to know the sexual and gender norms of the late 19th and early 20th centuries.
+  </p>
+
+  <p>
+    In the histories of women’s sexuality in the 19th century, early scholars named seemingly homosexual relationships between women as ‘romantic friendships’. This category proposes that society accepted close female relationships, where women discussed their love and longing for one another, as a normal part of girlhood and womanhood.
+  </p>
+
+  <p>
+    These relationships could be passionate and loving but, ultimately, platonic and unconsummated. It could be easy to frame Cushier and Blackwell’s relationship as one of these romantic friendships. However, their connection existed beyond a normative expression of female romantic friendship.
+  </p>
+
+  <p>
+    More recent scholars have returned to the idea of ‘romantic friendships’ and question if it encompasses the scope of female relationships in the 19th century...
+  </p>
+
+  <p>
+    Besides existing in a period where their love came with stigma, Cushier and Blackwell were well past the age where people viewed romantic friendship as acceptable...
+  </p>
+
+</div>
+
+
 
 ## Section Headings Create Visual Breaks
 Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
