@@ -2,7 +2,9 @@
 title: My Dear Dear Doctor
 author: Allison Love
 layout: scrollstory
-permalink: /test/cinematic/
+layout: scrollstory
+title: Cinematic Test
+permalink: /deardoctors/cinematic-test/
 date: 2026-05-12
 summary: Elizabeth Cushier and Emily Blackwell's love, careers, letters, and the limits of what an archive can reveal.
 header-image: assets/images/cushier1.jpg
