@@ -1,5 +1,5 @@
 ---
-title: Final Project
+title: Final Projects
 author: Allison Love
 layout: scrollstory
 date: 2026-5-12
