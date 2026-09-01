@@ -39,7 +39,7 @@ Within the intimate form of letters, they created a strict rhetorical line betwe
 Although they constructed rhetorical boundaries between their professional and private lives, the proximity of their discussions of work and home life shows how Cushier and Blackwell’s relationship could not be separated from their identity as doctors. Meeting and building their relationship in a medical institution, they defined their love through reaffirming each other’s authority as doctors. Their letters demonstrate two things: an ingrained perimeter between the professional and intimate and, simultaneously, a relationship that transcended public and private barriers because of their status as medical professionals. 
 
 
-<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8 margin-bottom:30px;">
+<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:transparent margin-bottom:30px;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
 Notes on Queerness
 </summary>
@@ -59,7 +59,7 @@ My thoughts lie somewhere in the middle, in the messiness that queerness often e
 [^3]:For more information on debates about queer studies check out: John Boswell “IV: Towards The Long View Revolutions, Universals and Sexual Categories.” Salmagundi, no. 58/59 (1982): 89–113. http://www.jstor.org/stable/40547566.
 
 
-<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8;margin-bottom:30px;">
+<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#transparent;margin-bottom:30px;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
 Notes on Legibility 
 </summary>
