@@ -5,6 +5,7 @@ layout: scrollstory
 date: 2026-5-12
 thumbnail: images/seedling-card.jpg
 summary: 
+permalink: /test/
 header-image: assets/images/cushier1.jpg
 header-title: My Dear Dear Doctor
 header-subtitle: Elizabeth Cushier and Emily Blackwell's Love and Careers
