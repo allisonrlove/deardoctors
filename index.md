@@ -180,7 +180,7 @@ While she led with the establishment of her medical authority and made a distinc
   <!-- text content -->
   <div style="position: relative; z-index: 1;">
 
-    <h2>Solidarity</h2>
+    <h2 style="color: #afffd6;">Solidarity</h2>
 
     <p>
     Apart from their conflict with male medical professionals and masculinity, women doctors experienced complicated relationships among themselves as well. As women began to enter the field in the mid-1900s, they formed their learning institutions and professional relationships for each other. They stressed female solidarity as paramount to the experience of being a woman doctor. If men were not going to give them opportunities and careers, they would create them amongst themselves. 
