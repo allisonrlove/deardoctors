@@ -39,12 +39,9 @@ Within the intimate form of letters, they created a strict rhetorical line betwe
 Although they constructed rhetorical boundaries between their professional and private lives, the proximity of their discussions of work and home life shows how Cushier and Blackwell’s relationship could not be separated from their identity as doctors. Meeting and building their relationship in a medical institution, they defined their love through reaffirming each other’s authority as doctors. Their letters demonstrate two things: an ingrained perimeter between the professional and intimate and, simultaneously, a relationship that transcended public and private barriers because of their status as medical professionals. 
 
 
-<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:transparent; margin-bottom:30px;">
+<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:transparent margin-bottom:30px;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
-  <span style="display:block;">Notes on Queerness</span>
-  <span style="display:block; font-size:0.72em; font-weight:400; opacity:0.8; margin-top:4px; line-height:1.4;">
-    John Boswell, “IV: Towards The Long View: Revolutions, Universals, and Sexual Categories,” Salmagundi, no. 58/59 (1982): 89–113.
-  </span>
+Notes on Queerness
 </summary>
 
 <br>
@@ -56,6 +53,10 @@ Historians of sexuality, and historians in general, frequently debate whether or
 My thoughts lie somewhere in the middle, in the messiness that queerness often exists in. For this reason, I will refer to Cushier and Blackwell’s relationship as queer. I define queer as deviant from normative sexual and gender roles. Their relationship existed outside the bonds of normative sexualities (the specifics of which will be discussed later), and they shared a deep, emotional, if not physical, love together. I use queer here as an analytical category rather than a label. They may have thought of themselves and their relationship the way we conceptualize modern lesbians, and historians have categorized them this way, but it is impossible to know anything for certain beyond what their sources tell us.
 </p>
 </details>
+
+[^3] 
+
+[^3]:For more information on debates about queer studies check out: John Boswell “IV: Towards The Long View Revolutions, Universals and Sexual Categories.” Salmagundi, no. 58/59 (1982): 89–113. http://www.jstor.org/stable/40547566.
 
 
 <details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#transparent;margin-bottom:30px;">
