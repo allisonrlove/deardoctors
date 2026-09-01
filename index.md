@@ -102,9 +102,9 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 <div style="display:flex; gap:20px; margin-top:20px;">
 
-  <img src="assets/images/mystery1.PNG" style="width:50%; height:auto; border-radius:6px;">
+  <img src="assets/images/mystery1.PNG" style="width:50%; height:auto; border-radius:6px; transition: transform 0.25s ease, box-shadow 0.25s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.12); cursor: pointer;" onmouseover="this.style.transform='scale(1.04) translateY(-4px)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.12)';">
 
-  <img src="assets/images/mystery2.PNG" style="width:50%; height:auto; border-radius:6px;">
+  <img src="assets/images/mystery2.PNG" style="width:50%; height:auto; border-radius:6px; transition: transform 0.25s ease, box-shadow 0.25s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.12); cursor: pointer;" onmouseover="this.style.transform='scale(1.04) translateY(-4px)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.12)';">
 
 </div>
 
