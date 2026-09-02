@@ -55,10 +55,6 @@ My thoughts lie somewhere in the middle, in the messiness that queerness often e
 </p>
 </details>
 
-<p id="citation-3" style="font-size:0.9em; margin-top:20px;">
-  <strong>[3]</strong> For more information on debates about queer studies, see John Boswell, “Towards the Long View: Revolutions, Universals and Sexual Categories,” <em>Salmagundi</em>, no. 58/59 (1982): 89–113. <a href="http://www.jstor.org/stable/40547566">Read the article.</a>
-</p>
-
 
 
 
@@ -357,3 +353,8 @@ She also, after providing medical news, updated her sister about household going
   </div>
 
 </div>
+
+## Endnotes
+<p id="citation-3" style="font-size:0.9em; margin-top:20px;">
+  <strong>[3]</strong> For more information on debates about queer studies, see John Boswell, “Towards the Long View: Revolutions, Universals and Sexual Categories,” <em>Salmagundi</em>, no. 58/59 (1982): 89–113. <a href="http://www.jstor.org/stable/40547566">Read the article.</a>
+</p>
