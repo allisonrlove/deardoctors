@@ -95,13 +95,78 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 ## Try Deciphering These Words!
 
-<div style="display:flex; gap:20px; margin-top:20px;">
+<div id="mystery-word-tool" style="margin-top:20px;">
+  <div style="display:flex; gap:20px;">
+    <button type="button" class="mystery-word-image" data-image="Mystery word one" aria-label="Enter a guess for mystery word one" style="width:50%; padding:0; border:0; background:transparent; cursor:pointer;">
+      <img src="assets/images/mystery1.PNG" alt="First handwritten mystery word" style="display:block; width:100%; height:auto; border-radius:6px; transition:transform 0.25s ease, box-shadow 0.25s ease; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+    </button>
 
-  <img src="assets/images/mystery1.PNG" style="width:50%; height:auto; border-radius:6px; transition: transform 0.25s ease, box-shadow 0.25s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.12); cursor: pointer;" onmouseover="this.style.transform='scale(1.04) translateY(-4px)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.12)';">
+    <button type="button" class="mystery-word-image" data-image="Mystery word two" aria-label="Enter a guess for mystery word two" style="width:50%; padding:0; border:0; background:transparent; cursor:pointer;">
+      <img src="assets/images/mystery2.PNG" alt="Second handwritten mystery word" style="display:block; width:100%; height:auto; border-radius:6px; transition:transform 0.25s ease, box-shadow 0.25s ease; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+    </button>
+  </div>
 
-  <img src="assets/images/mystery2.PNG" style="width:50%; height:auto; border-radius:6px; transition: transform 0.25s ease, box-shadow 0.25s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.12); cursor: pointer;" onmouseover="this.style.transform='scale(1.04) translateY(-4px)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.12)';">
+  <div id="mystery-word-response" hidden style="margin-top:24px; padding:20px; border:1px solid #6B7D5A; border-radius:8px; background:#f8f8f8;">
+    <form id="mystery-word-form">
+      <label for="mystery-word-input" style="display:block; margin-bottom:8px; font-weight:600; color:#3F4A37;">Your guess for <span id="mystery-word-selected"></span></label>
+      <textarea id="mystery-word-input" rows="3" required placeholder="Enter a possible reading..."></textarea>
+      <button type="submit" style="margin-top:10px; padding:8px 14px; border:0; border-radius:4px; background:#6B7D5A; color:white; cursor:pointer;">Add guess</button>
+    </form>
 
+    <div style="margin-top:20px;">
+      <h3 style="margin:0 0 10px; color:#3F4A37;">All guesses</h3>
+      <ul id="mystery-word-guesses" style="margin:0; padding-left:20px;"></ul>
+    </div>
+  </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const tool = document.getElementById('mystery-word-tool');
+  if (!tool) return;
+
+  const responsePanel = document.getElementById('mystery-word-response');
+  const selectedLabel = document.getElementById('mystery-word-selected');
+  const input = document.getElementById('mystery-word-input');
+  const form = document.getElementById('mystery-word-form');
+  const guessesList = document.getElementById('mystery-word-guesses');
+  const storageKey = 'deardoctors-mystery-word-guesses';
+  let selectedImage = '';
+  let guesses = JSON.parse(localStorage.getItem(storageKey) || '[]');
+
+  function renderGuesses() {
+    guessesList.innerHTML = '';
+    guesses.forEach(function (guess) {
+      const item = document.createElement('li');
+      item.textContent = guess.image + ': ' + guess.text;
+      guessesList.appendChild(item);
+    });
+  }
+
+  tool.querySelectorAll('.mystery-word-image').forEach(function (imageButton) {
+    imageButton.addEventListener('click', function () {
+      selectedImage = imageButton.dataset.image;
+      selectedLabel.textContent = selectedImage;
+      responsePanel.hidden = false;
+      input.focus();
+    });
+  });
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    const text = input.value.trim();
+    if (!text) return;
+
+    guesses.push({ image: selectedImage, text: text });
+    localStorage.setItem(storageKey, JSON.stringify(guesses));
+    input.value = '';
+    renderGuesses();
+    input.focus();
+  });
+
+  renderGuesses();
+});
+</script>
 
 <br><br>
 
