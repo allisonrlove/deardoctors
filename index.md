@@ -19,7 +19,7 @@ tags:
 ---
 
 
-> It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here, + that we shall soon be at work again together…believe me as ever dear dear doctor with love from EMC.” <a id="citation-ref-1" href="#citation-1" title="Elizabeth Cushier to Emily Blackwell, Letters to Emily Blackwell, n.d., Schlesinger Library, Harvard Radcliffe Institute." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[1]</a>
+> It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here, + that we shall soon be at work again together…believe me as ever **dear dear doctor** with love from EMC. <a id="citation-ref-1" href="#citation-1" title="Elizabeth Cushier to Emily Blackwell, Letters to Emily Blackwell, n.d., Schlesinger Library, Harvard Radcliffe Institute." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[1]</a>
 
 This is an excerpt from a letter sent by Elizabeth Cushier to her long-term partner and housemate, Emily Blackwell, written sometime between 1883-1910. Here, Cushier shows her love and care for the other woman and simultaneously draws a tie between her medical profession and their love. Cushier, also a doctor, in this small excerpt, divulges an intimate connection between love shared amid two women and nineteenth-century medical professionals
 
