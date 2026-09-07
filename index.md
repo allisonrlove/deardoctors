@@ -144,22 +144,32 @@ document.addEventListener('DOMContentLoaded', function () {
   const form = document.getElementById('mystery-word-form');
   const wordOneGuesses = document.getElementById('mystery-word-one-guesses');
   const wordTwoGuesses = document.getElementById('mystery-word-two-guesses');
-  const storageKey = 'deardoctors-mystery-word-guesses';
+  const apiUrl = 'https://script.google.com/macros/s/AKfycbyX-ACHdK80LgL7HU4WQ5c4e26NY9osnHXow8OCTMLHVKEuCfKpOEIYWfL1vjnk711qtw/exec';
   let selectedImage = '';
-  let guesses = JSON.parse(localStorage.getItem(storageKey) || '[]');
+  let guesses = [];
 
   function renderGuesses() {
     wordOneGuesses.innerHTML = '';
     wordTwoGuesses.innerHTML = '';
     guesses.forEach(function (guess) {
       const item = document.createElement('li');
-      item.textContent = guess.text;
-      if (guess.image === 'Mystery word one') {
+      const countLabel = guess.count === 1 ? 'guess' : 'guesses';
+      item.textContent = guess.guess + ' (' + guess.count + ' ' + countLabel + ')';
+      if (guess.word === 'Mystery word one') {
         wordOneGuesses.appendChild(item);
-      } else if (guess.image === 'Mystery word two') {
+      } else if (guess.word === 'Mystery word two') {
         wordTwoGuesses.appendChild(item);
       }
     });
+  }
+
+  async function loadGuesses() {
+    const response = await fetch(apiUrl);
+    if (!response.ok) {
+      throw new Error('Unable to load guesses');
+    }
+    guesses = await response.json();
+    renderGuesses();
   }
 
   tool.querySelectorAll('.mystery-word-image').forEach(function (imageButton) {
@@ -171,19 +181,38 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
-  form.addEventListener('submit', function (event) {
+  form.addEventListener('submit', async function (event) {
     event.preventDefault();
     const text = input.value.trim();
     if (!text) return;
 
-    guesses.push({ image: selectedImage, text: text });
-    localStorage.setItem(storageKey, JSON.stringify(guesses));
-    input.value = '';
-    renderGuesses();
-    input.focus();
+    const submitButton = form.querySelector('button[type="submit"]');
+    submitButton.disabled = true;
+
+    try {
+      const response = await fetch(apiUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: JSON.stringify({ word: selectedImage, guess: text })
+      });
+
+      if (!response.ok) {
+        throw new Error('Unable to submit guess');
+      }
+
+      input.value = '';
+      await loadGuesses();
+      input.focus();
+    } catch (error) {
+      window.alert('Your guess could not be submitted. Please try again.');
+    } finally {
+      submitButton.disabled = false;
+    }
   });
 
-  renderGuesses();
+  loadGuesses().catch(function () {
+    window.alert('The shared guesses could not be loaded. Please refresh and try again.');
+  });
 });
 </script>
 
