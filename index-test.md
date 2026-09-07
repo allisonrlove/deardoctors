@@ -121,9 +121,15 @@ There is also the illegibility of both queerness and the past. We will never ful
       <button type="submit" style="margin-top:10px; padding:8px 14px; border:0; border-radius:4px; background:#6B7D5A; color:white; cursor:pointer;">Add guess</button>
     </form>
 
-    <div style="margin-top:20px;">
-      <h3 style="margin:0 0 10px; color:#3F4A37;">All guesses</h3>
-      <ul id="mystery-word-guesses" style="margin:0; padding-left:20px;"></ul>
+    <div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:20px;">
+      <section style="flex:1 1 240px; padding:14px; border:1px solid #A3B18A; border-radius:6px; background:#fff;">
+        <h3 style="margin:0 0 10px; color:#3F4A37;">Mystery word one guesses</h3>
+        <ul id="mystery-word-one-guesses" style="margin:0; padding-left:20px;"></ul>
+      </section>
+      <section style="flex:1 1 240px; padding:14px; border:1px solid #A3B18A; border-radius:6px; background:#fff;">
+        <h3 style="margin:0 0 10px; color:#3F4A37;">Mystery word two guesses</h3>
+        <ul id="mystery-word-two-guesses" style="margin:0; padding-left:20px;"></ul>
+      </section>
     </div>
   </div>
 </div>
@@ -137,17 +143,23 @@ document.addEventListener('DOMContentLoaded', function () {
   const selectedLabel = document.getElementById('mystery-word-selected');
   const input = document.getElementById('mystery-word-input');
   const form = document.getElementById('mystery-word-form');
-  const guessesList = document.getElementById('mystery-word-guesses');
+  const wordOneGuesses = document.getElementById('mystery-word-one-guesses');
+  const wordTwoGuesses = document.getElementById('mystery-word-two-guesses');
   const storageKey = 'deardoctors-mystery-word-guesses';
   let selectedImage = '';
   let guesses = JSON.parse(localStorage.getItem(storageKey) || '[]');
 
   function renderGuesses() {
-    guessesList.innerHTML = '';
+    wordOneGuesses.innerHTML = '';
+    wordTwoGuesses.innerHTML = '';
     guesses.forEach(function (guess) {
       const item = document.createElement('li');
-      item.textContent = guess.image + ': ' + guess.text;
-      guessesList.appendChild(item);
+      item.textContent = guess.text;
+      if (guess.image === 'Mystery word one') {
+        wordOneGuesses.appendChild(item);
+      } else if (guess.image === 'Mystery word two') {
+        wordTwoGuesses.appendChild(item);
+      }
     });
   }
 
@@ -238,7 +250,6 @@ While she led with the establishment of her medical authority and made a distinc
 
 {% include images/jumbotron.html
   image-path="assets/images/cushier4.jpg"
-  height="600px"
   background-position="center"
   zoom="cover"
   box-align="left"
@@ -352,7 +363,7 @@ She also, after providing medical news, updated her sister about household going
   margin-left: calc(50% - 50vw);
   background: linear-gradient(180deg, #6B7D5A 0%, #3F4A37 100%);
   color: #F5F1E6;
-  padding: 120px 12vw;
+  padding: 60px 12vw 80px;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
