@@ -19,18 +19,14 @@ tags:
 ---
 
 
-> It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here, + that we shall soon be at work again together…believe me as ever dear dear doctor with love from EMC.”[^1] 
-
-[^1]: Elizabeth Cushier to Emily Blackwell, Letters to Emily Blackwell, n.d.; includes letters from Emily Blackwell's companion, Dr. Elizabeth Cushier, from Mary Putman Jacobi, Marie Blackwell Droussart, and E.S. Minturn re: Harvard Annex entrance examinations, Papers of the Blackwell family, 1831-1981, MC 411, 187., Box 20, Schlesinger Library on the History of Women in America, Harvard Radcliffe Institute. https://id.lib.harvard.edu/ead/c/sch00050c00224/catalog Accessed May 12, 2026.
+> It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here, + that we shall soon be at work again together…believe me as ever dear dear doctor with love from EMC.” <a id="citation-ref-1" href="#citation-1" title="Elizabeth Cushier to Emily Blackwell, Letters to Emily Blackwell, n.d., Schlesinger Library, Harvard Radcliffe Institute." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[1]</a>
 
 This is an excerpt from a letter sent by Elizabeth Cushier to her long-term partner and housemate, Emily Blackwell, written sometime between 1883-1910. Here, Cushier shows her love and care for the other woman and simultaneously draws a tie between her medical profession and their love. Cushier, also a doctor, in this small excerpt, divulges an intimate connection between love shared amid two women and nineteenth-century medical professionals
 
 
 ## Building Careers and Correspondence
 
-Living in New York City in the year 1869, a thirty-two year old Elizabeth Cushier took the bold step to join the world of professional medicine. She entered The Women’s Medical College of the New York Infirmary, one of the few institutions in America concerned with the training and staffing of women medical professionals, and her life changed forever. Not only would she become one of the handful of women capable of practicing professional medicine in America, but she would also meet the woman she would spend the rest of her life with, Emily Blackwell. Blackwell herself pioneered women joining the medical profession and became the third female doctor in America after she received her M.D. in 1854. She founded and ran The Women’s Medical College that Cushier decided to attend.[^2]  There, in that groundbreaking space, Cushier and Blackwell connected and built their lives together.
-
-[^2]:Lillian Faderman To Believe in Women : What Lesbians Have Done for American History (Houghton Mifflin, 2000): 280.
+Living in New York City in the year 1869, a thirty-two year old Elizabeth Cushier took the bold step to join the world of professional medicine. She entered The Women’s Medical College of the New York Infirmary, one of the few institutions in America concerned with the training and staffing of women medical professionals, and her life changed forever. Not only would she become one of the handful of women capable of practicing professional medicine in America, but she would also meet the woman she would spend the rest of her life with, Emily Blackwell. Blackwell herself pioneered women joining the medical profession and became the third female doctor in America after she received her M.D. in 1854. She founded and ran The Women’s Medical College that Cushier decided to attend. <a id="citation-ref-2" href="#citation-2" title="Lillian Faderman, To Believe in Women: What Lesbians Have Done for American History (2000), 280." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[2]</a> There, in that groundbreaking space, Cushier and Blackwell connected and built their lives together.
 
 Cushier and Blackwell had to contend with a complex relationship between their professional and private lives. In their professional lives, they defied traditional gender roles by assuming a job that actively excluded women. In their private lives, they defied traditional sexual roles by never marrying a man and choosing to live and make a home with a fellow woman doctor. Their letters, between each other, family, and friends, reveal how they navigated their non-normative gender and sexuality. 
 
@@ -39,7 +35,7 @@ Within the intimate form of letters, they created a strict rhetorical line betwe
 Although they constructed rhetorical boundaries between their professional and private lives, the proximity of their discussions of work and home life shows how Cushier and Blackwell’s relationship could not be separated from their identity as doctors. Meeting and building their relationship in a medical institution, they defined their love through reaffirming each other’s authority as doctors. Their letters demonstrate two things: an ingrained perimeter between the professional and intimate and, simultaneously, a relationship that transcended public and private barriers because of their status as medical professionals. 
 
 
-<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:transparent margin-bottom:30px;">
+<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#transparent; margin-bottom:30px;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
 Notes on Queerness
 </summary>
@@ -50,14 +46,11 @@ Historians of sexuality, and historians in general, frequently debate whether or
 </p>
 
 <p>
-My thoughts lie somewhere in the middle, in the messiness that queerness often exists in. For this reason, I will refer to Cushier and Blackwell’s relationship as queer. I define queer as deviant from normative sexual and gender roles. Their relationship existed outside the bonds of normative sexualities (the specifics of which will be discussed later), and they shared a deep, emotional, if not physical, love together. I use queer here as an analytical category rather than a label. They may have thought of themselves and their relationship the way we conceptualize modern lesbians, and historians have categorized them this way, but it is impossible to know anything for certain beyond what their sources tell us.
-<abbr class="citation-tooltip" title="John Boswell, “Towards the Long View: Revolutions, Universals and Sexual Categories,” Salmagundi 58/59 (1982): 89–113.">[3]</abbr>
+My thoughts lie somewhere in the middle, in the messiness that queerness often exists in. For this reason, I will refer to Cushier and Blackwell’s relationship as queer. I define queer as deviant from normative sexual and gender roles. Their relationship existed outside the bonds of normative sexualities (the specifics of which will be discussed later), and they shared a deep, emotional, if not physical, love together. I use queer here as an analytical category rather than a label. They may have thought of themselves and their relationship the way we conceptualize modern lesbians, and historians have categorized them this way, but it is impossible to know anything for certain beyond what their sources tell us. <a id="citation-ref-3" href="#citation-3" title="John Boswell, 'Towards the Long View: Revolutions, Universals and Sexual Categories,' Salmagundi 58/59 (1982): 89–113." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[3]</a>
 </p>
 </details>
 
-[^3] 
 
-[^3]:For more information on debates about queer studies check out: John Boswell “IV: Towards The Long View Revolutions, Universals and Sexual Categories.” Salmagundi, no. 58/59 (1982): 89–113. http://www.jstor.org/stable/40547566.
 
 
 <details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#transparent;margin-bottom:30px;">
@@ -101,13 +94,98 @@ There is also the illegibility of both queerness and the past. We will never ful
 
 ## Try Deciphering These Words!
 
-<div style="display:flex; gap:20px; margin-top:20px;">
+<div id="mystery-word-tool" style="margin-top:20px;">
+  <style>
+    #mystery-word-tool .mystery-word-image:hover img,
+    #mystery-word-tool .mystery-word-image:focus-visible img {
+      transform:scale(1.04) translateY(-4px);
+      box-shadow:0 12px 24px rgba(0,0,0,0.2);
+    }
+  </style>
 
-  <img src="assets/images/mystery1.PNG" style="width:50%; height:auto; border-radius:6px; transition: transform 0.25s ease, box-shadow 0.25s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.12); cursor: pointer;" onmouseover="this.style.transform='scale(1.04) translateY(-4px)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.12)';">
+  <div style="display:flex; gap:20px;">
+    <button type="button" class="mystery-word-image" data-image="Mystery word one" aria-label="Enter a guess for mystery word one" style="width:50%; padding:0; border:0; background:transparent; cursor:pointer;">
+      <img src="assets/images/mystery1.PNG" alt="First handwritten mystery word" style="display:block; width:100%; height:auto; border-radius:6px; transition:transform 0.25s ease, box-shadow 0.25s ease; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+    </button>
 
-  <img src="assets/images/mystery2.PNG" style="width:50%; height:auto; border-radius:6px; transition: transform 0.25s ease, box-shadow 0.25s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.12); cursor: pointer;" onmouseover="this.style.transform='scale(1.04) translateY(-4px)'; this.style.boxShadow='0 12px 24px rgba(0,0,0,0.2)';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.12)';">
+    <button type="button" class="mystery-word-image" data-image="Mystery word two" aria-label="Enter a guess for mystery word two" style="width:50%; padding:0; border:0; background:transparent; cursor:pointer;">
+      <img src="assets/images/mystery2.PNG" alt="Second handwritten mystery word" style="display:block; width:100%; height:auto; border-radius:6px; transition:transform 0.25s ease, box-shadow 0.25s ease; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+    </button>
+  </div>
 
+  <div id="mystery-word-response" hidden style="margin-top:24px; padding:20px; border:1px solid #6B7D5A; border-radius:8px; background:#f8f8f8;">
+    <form id="mystery-word-form">
+      <label for="mystery-word-input" style="display:block; margin-bottom:8px; font-weight:600; color:#3F4A37;">Your guess for <span id="mystery-word-selected"></span></label>
+      <textarea id="mystery-word-input" rows="3" required placeholder="Enter a possible reading..."></textarea>
+      <button type="submit" style="margin-top:10px; padding:8px 14px; border:0; border-radius:4px; background:#6B7D5A; color:white; cursor:pointer;">Add guess</button>
+    </form>
+
+    <div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:20px;">
+      <section style="flex:1 1 240px; padding:14px; border:1px solid #A3B18A; border-radius:6px; background:#fff;">
+        <h3 style="margin:0 0 10px; color:#3F4A37;">Mystery word one guesses</h3>
+        <ul id="mystery-word-one-guesses" style="margin:0; padding-left:20px;"></ul>
+      </section>
+      <section style="flex:1 1 240px; padding:14px; border:1px solid #A3B18A; border-radius:6px; background:#fff;">
+        <h3 style="margin:0 0 10px; color:#3F4A37;">Mystery word two guesses</h3>
+        <ul id="mystery-word-two-guesses" style="margin:0; padding-left:20px;"></ul>
+      </section>
+    </div>
+  </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const tool = document.getElementById('mystery-word-tool');
+  if (!tool) return;
+
+  const responsePanel = document.getElementById('mystery-word-response');
+  const selectedLabel = document.getElementById('mystery-word-selected');
+  const input = document.getElementById('mystery-word-input');
+  const form = document.getElementById('mystery-word-form');
+  const wordOneGuesses = document.getElementById('mystery-word-one-guesses');
+  const wordTwoGuesses = document.getElementById('mystery-word-two-guesses');
+  const storageKey = 'deardoctors-mystery-word-guesses';
+  let selectedImage = '';
+  let guesses = JSON.parse(localStorage.getItem(storageKey) || '[]');
+
+  function renderGuesses() {
+    wordOneGuesses.innerHTML = '';
+    wordTwoGuesses.innerHTML = '';
+    guesses.forEach(function (guess) {
+      const item = document.createElement('li');
+      item.textContent = guess.text;
+      if (guess.image === 'Mystery word one') {
+        wordOneGuesses.appendChild(item);
+      } else if (guess.image === 'Mystery word two') {
+        wordTwoGuesses.appendChild(item);
+      }
+    });
+  }
+
+  tool.querySelectorAll('.mystery-word-image').forEach(function (imageButton) {
+    imageButton.addEventListener('click', function () {
+      selectedImage = imageButton.dataset.image;
+      selectedLabel.textContent = selectedImage;
+      responsePanel.hidden = false;
+      input.focus();
+    });
+  });
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    const text = input.value.trim();
+    if (!text) return;
+
+    guesses.push({ image: selectedImage, text: text });
+    localStorage.setItem(storageKey, JSON.stringify(guesses));
+    input.value = '';
+    renderGuesses();
+    input.focus();
+  });
+
+  renderGuesses();
+});
+</script>
 
 <br><br>
 
@@ -115,9 +193,7 @@ There is also the illegibility of both queerness and the past. We will never ful
 {% capture firstimage %}
 To understand the pressures Cushier and Blackwell were up against, it is necessary to look at the gendered landscape of the medical world in 19th century America. Up until Emily Blackwell’s sister, Elizabeth Blackwell, became the first female doctor in America, this world of professional medicine excluded women because of the simple fact that they were women. 
 
-Men created the institutions of medicine to monopolize on the authority of the profession and produced the knowledge that framed women as incapable of becoming doctors due to their fragile minds and bodies. Male doctors pushed Victorian beliefs that women’s minds were not capable of processing higher education and that it was improper for women to become familiar with and touch bodies, even in a medical context.[^4]
-
-[^4]: Carla Bittle Mary Putnam Jacobi and the Politics of Medicine in Nineteenth-Century America (The University of North Carolina Press, 2009), 2.
+Men created the institutions of medicine to monopolize on the authority of the profession and produced the knowledge that framed women as incapable of becoming doctors due to their fragile minds and bodies. Male doctors pushed Victorian beliefs that women’s minds were not capable of processing higher education and that it was improper for women to become familiar with and touch bodies, even in a medical context. <a id="citation-ref-4" href="#citation-4" title="Carla Bittle, Mary Putnam Jacobi and the Politics of Medicine in Nineteenth-Century America (2009), 2." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[4]</a>
 
 {% endcapture %}
 
@@ -131,9 +207,7 @@ Men created the institutions of medicine to monopolize on the authority of the p
 
 Women, like Cushier and Blackwell, also had to balance societal notions of masculinity and femininity as doctors. People expected doctors to be authoritative, stoic experts in their fields. However, women who displayed these characteristics were shamed for being manly and unladylike. Being viewed as a good doctor came at the cost of losing one’s womanhood, and being viewed as a good woman came at the cost of losing one’s authority as a doctor. Women doctors carefully negotiated how they presented themselves to the public, to their professional peers, and to their patients. 
 
-Under constant surveillance to succeed as both doctors and women, they had to perform a precise rhetoric that found equilibrium between the two roles. It is no surprise, then, that Cushier and Blackwell’s letters starkly demark between their public and private lives. So ingrained was the need to establish their power as doctors, that they had to reassert their authority to even their most trusted companions in the most personal correspondence.[^5] 
-
-[^5]: Carolyn Skinner, Women Physicians and Professional Ethos in Nineteenth-Century America (SIU Press, 2014), 2-3. 
+Under constant surveillance to succeed as both doctors and women, they had to perform a precise rhetoric that found equilibrium between the two roles. It is no surprise, then, that Cushier and Blackwell’s letters starkly demark between their public and private lives. So ingrained was the need to establish their power as doctors, that they had to reassert their authority to even their most trusted companions in the most personal correspondence. <a id="citation-ref-5" href="#citation-5" title="Carolyn Skinner, Women Physicians and Professional Ethos in Nineteenth-Century America (2014), 2–3." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[5]</a>
 
 
 
@@ -155,52 +229,36 @@ Cushier began her letter, not with personal updates, but with updates about thre
 While she led with the establishment of her medical authority and made a distinction between discussing their professional and home issues, throughout the letter, Cushier blends her and Blackwell’s medical profession and their personal relationship. She referred to Blackwell as her “own, dear doctor” and her “dear dear doctor,” and, in doing so, combined her affection with her title. Societal pressures conditioned Cushier to separate her emotions from her job, but her non-normative relationship with Blackwell provided avenues to blend and affirm their careers and their love. 
 
 
-<div style="
-  position: relative;
-  padding: 40px;
-  border-radius: 12px;
-  color: white;
-  overflow: hidden;
-  margin: 40px 0;
-">
+{% capture solidarity_text %}
+<div style="color:#F5F1E6;">
+  <h2 style="color:#afffd6;">Solidarity</h2>
 
-  <!-- background image -->
-  <div style="
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-image: url('assets/images/cushier4.jpg');
-    background-size: cover;
-    background-position: center;
-    filter: brightness(0.5);
-    z-index: 0;
-  "></div>
+  <p>
+  Apart from their conflict with male medical professionals and masculinity, women doctors experienced complicated relationships among themselves as well. As women began to enter the field in the mid-1900s, they formed their learning institutions and professional relationships for each other. They stressed female solidarity as paramount to the experience of being a woman doctor. If men were not going to give them opportunities and careers, they would create them amongst themselves.
+  </p>
 
-  <!-- text content -->
-  <div style="position: relative; z-index: 1;">
+  <p>
+  However, as time passed and more and more women entered the field of professional medicine, the learning experiences and job options for younger women medical professionals seemed incredibly limited. If they stuck with the women-only opportunities, they would be limited in their professional development. This caused tension between the older generations of women medical professionals and the younger ones. They had to choose between camaraderie with other women and their trajectory as medical professionals.
+  </p>
 
-    <h2 style="color: #afffd6;">Solidarity</h2>
-
-    <p>
-    Apart from their conflict with male medical professionals and masculinity, women doctors experienced complicated relationships among themselves as well. As women began to enter the field in the mid-1900s, they formed their learning institutions and professional relationships for each other. They stressed female solidarity as paramount to the experience of being a woman doctor. If men were not going to give them opportunities and careers, they would create them amongst themselves. 
-    </p>
-
-    <p>
-    However, as time passed and more and more women entered the field of professional medicine, the learning experiences and job options for younger women medical professionals seemed incredibly limited. If they stuck with the women-only opportunities, they would be limited in their professional development. This caused tension between the older generations of women medical professionals and the younger ones. They had to choose between camaraderie with other women and their trajectory as medical professionals. 
-    </p>
-
-    <p>
-    Cushier and Blackwell existed within this tension. Cushier was eleven years younger than Blackwell, and Blackwell mentored Cushier at school. Their generational divide in the medical profession could have caused strain in their relationship. However, they formed both a deep and meaningful relationship with one another and fulfilling careers. They grappled with professional pressures both internally and externally and created intricate kinship networks that served to validate their positions as doctors and as partners. 
-    </p>
-
-  </div>
+  <p>
+  Cushier and Blackwell existed within this tension. Cushier was eleven years younger than Blackwell, and Blackwell mentored Cushier at school. Their generational divide in the medical profession could have caused strain in their relationship. However, they formed both a deep and meaningful relationship with one another and fulfilling careers. They grappled with professional pressures both internally and externally and created intricate kinship networks that served to validate their positions as doctors and as partners.
+  </p>
 </div>
+{% endcapture %}
 
-[^6]
+{% include images/jumbotron.html
+  image-path="assets/images/cushier4.jpg"
+  background-position="center"
+  zoom="cover"
+  box-align="left"
+  fade-start="0%"
+  fade-end="80%"
+  bg-color="rgba(63,74,55,0.9)"
+  text=solidarity_text
+%}
 
-[^6]: Virginia G. Drachman, “Female Solidarity and Professional Success: The Dilemma of Women Doctors in Late Nineteenth-Century America.” Journal of Social History 15, no. 4 (1982): 616., Faderman, *To Believe in Women*, 287. 
+<a id="citation-ref-6" href="#citation-6" title="Virginia G. Drachman, 'Female Solidarity and Professional Success' (1982), 616; Lillian Faderman, To Believe in Women, 287." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[6]</a>
 
 ## Cushier to Blackwell Continued 
 
@@ -237,22 +295,10 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
   </p>
 
   <p>
-    Besides existing in a period where their love came with stigma, Cushier and Blackwell were well past the age where people viewed romantic friendship as acceptable. With romantic friendships, society allowed girls and young women to explore these connections in their youth, but, as they grew older, they were required to find husbands. They could carry these connections into their marriages, but people saw eventually establishing a real romantic, heterosexual relationship as a vital part of romantic friendships. At thirty-two and forty-three, people expected Cushier and Blackwell to be married to men and to probably have had children. Instead, they lived with each other, unmarried for their whole lives. 
+    Besides existing in a period where their love came with stigma, Cushier and Blackwell were well past the age where people viewed romantic friendship as acceptable. With romantic friendships, society allowed girls and young women to explore these connections in their youth, but, as they grew older, they were required to find husbands. They could carry these connections into their marriages, but people saw eventually establishing a real romantic, heterosexual relationship as a vital part of romantic friendships. At thirty-two and forty-three, people expected Cushier and Blackwell to be married to men and to probably have had children. Instead, they lived with each other, unmarried for their whole lives. <a id="citation-ref-7" href="#citation-7" title="Carroll Smith-Rosenberg, 'The Female World of Love and Ritual' (1975)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[7]</a> <a id="citation-ref-8" href="#citation-8" title="Jessie Vander Heide, 'Under the Guise of Friendship' (2025)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[8]</a> <a id="citation-ref-9" href="#citation-9" title="Marylynne Diggs, 'Romantic Friends or a Different Race of Creatures?' (1995)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[9]</a>
   </p>
 
 </div>
-
-<p style="font-size:0.9em; margin-top:20px;">
-<sup>9</sup> Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” Signs 1, no. 1 (1975): 1–29. http://www.jstor.org/stable/3172964.
-
-<br><br>
-
-Jessie Vander Heide, ““Under the Guise of Friendship”: Sentimental Intimacies and the Specter of “Unnatural” Sexuality at Nineteenth-Century Female Academies,” Journal of the History of Sexuality 34, no. 1 (2025):96.
-
-<br><br>
-
-Marylynne Diggs, “Romantic Friends or a "Different Race of Creatures"? The Representation of Lesbian Pathology in Nineteenth-Century America,” Feminist Studies 21, no. 2 (1995): 317-340.
-</p> 
 
 ## Blackwell to Blackwell
 
@@ -276,14 +322,12 @@ Emily simultaneously presented Cushier as both a medical professional and loving
 
 In her writing, she displayed her symptoms to her sister in a very detached manner, as if she discussed a patient who was not herself. The more personal parts of the letter came through when she wrote about Cushier’s anxiety and worry about her. Emily Blackwell simultaneously presented Cushier as both a medical professional and loving companion. In referring to her in context with the other doctors present and how they treated her illness, Emily solidified Cushier’s medical authority and justified her presence in her home. By implying that Cushier’s worries brought her back from the brink of death, Emily further justified their non-normative relationship to her sister while tying this bond to their positions as doctors.
 
-She also, after providing medical news, updated her sister about household goings-on that happened while she was still bedridden. She told her sister that while she was recovering, “No one could be more kind, devoted, and helpful than Dr Cushier was, the whole household was run for our help and convenience... In no branch of the family could a sick member have been so well cared for, and there is not one of my own family who could or would have done so much for me.” In a more overt way than in the beginning of her letter, Emily connected Cushier’s medical authority, care, and presence in her home. She laid out how Cushier was capable of taking care of her health and functioned as a member of her own family. The letter followed the same format as Cushier’s, where their professional, medical work took precedence over their personal, household updates. However, also like Cushier’s letter, it made their careers and their affection inseparable.[^8]
-
-[^8]: Emily Blackwell to Elizabeth Blackwell, Blackwell Family, Blackwell Family Papers: Other Blackwell Family Papers, -1945; Emily Blackwell Papers, 1850 to 1910; Correspondence; Family; Blackwell, Elizabeth; 1895 to 1896. - 1896, 1895, Manuscript/Mixed Material. https://www.loc.gov/item/mss1288002171/.
+She also, after providing medical news, updated her sister about household goings-on that happened while she was still bedridden. She told her sister that while she was recovering, “No one could be more kind, devoted, and helpful than Dr Cushier was, the whole household was run for our help and convenience... In no branch of the family could a sick member have been so well cared for, and there is not one of my own family who could or would have done so much for me.” In a more overt way than in the beginning of her letter, Emily connected Cushier’s medical authority, care, and presence in her home. She laid out how Cushier was capable of taking care of her health and functioned as a member of her own family. The letter followed the same format as Cushier’s, where their professional, medical work took precedence over their personal, household updates. However, also like Cushier’s letter, it made their careers and their affection inseparable. <a id="citation-ref-10" href="#citation-10" title="Emily Blackwell to Elizabeth Blackwell, 1896, Library of Congress." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[10]</a>
 
 <div style="
   width: 100vw;
   margin-left: calc(50% - 50vw);
-  background: #A3B18A;
+  background: linear-gradient(180deg, #A3B18A 0%, #6B7D5A 100%);
   color: #F5F1E6;
   padding: 80px 10vw;
   box-sizing: border-box;
@@ -300,11 +344,11 @@ She also, after providing medical news, updated her sister about household going
   </h2>
 
   <p>
-    The Blackwell family embraced Cushier and Blackwell’s relationship in part as a result of Cushier and Blackwell’s letters. On January 30, 1901, Cushier penned a letter to Kitty Barry Blackwell, the adopted daughter of Elizabeth Blackwell. In it, she responded to a Christmas letter that Kitty had sent to both Cushier and Blackwell. This shows how the larger Blackwell family considered Cushier to be part of the family and recognized their shared household. Also in the letter, Cushier refers to Blackwell as “my doctor.” The possessive, once again, associated Blackwell’s profession with her relationship with Cushier.
+    The Blackwell family embraced Cushier and Blackwell’s relationship in part as a result of Cushier and Blackwell’s letters. On January 30, 1901, Cushier penned a letter to Kitty Barry Blackwell, the adopted daughter of Elizabeth Blackwell. In it, she responded to a Christmas letter that Kitty had sent to both Cushier and Blackwell. This shows how the larger Blackwell family considered Cushier to be part of the family and recognized their shared household. Also in the letter, Cushier refers to Blackwell as “my doctor.” The possessive, once again, associated Blackwell’s profession with her relationship with Cushier. <a id="citation-ref-11" href="#citation-11" title="Kitty Barry Blackwell to Elizabeth Cushier, 1855, Library of Congress." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[11]</a>
   </p>
 
   <p>
-    Ethel Blackwell Robinson’s letter to Blackwell and Cushier similarly shows the Blackwell family’s treatment of Cushier and Blackwell as a unit. In her letter, she described mundane aspects of her trip and her great relationship with her new husband. Ethel addressed the letter to both “Aunt Emily and Dr. Cushier,” showing a desire for both Blackwell and Cushier to know the little aspects of her life, as one would with family members.
+    Ethel Blackwell Robinson’s letter to Blackwell and Cushier similarly shows the Blackwell family’s treatment of Cushier and Blackwell as a unit. In her letter, she described mundane aspects of her trip and her great relationship with her new husband. Ethel addressed the letter to both “Aunt Emily and Dr. Cushier,” showing a desire for both Blackwell and Cushier to know the little aspects of her life, as one would with family members. <a id="citation-ref-12" href="#citation-12" title="Ethel Robinson-Blackwell to Emily Blackwell and Elizabeth Cushier, 1834, Library of Congress." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[12]</a>
   </p>
 
   <p>
@@ -313,20 +357,12 @@ She also, after providing medical news, updated her sister about household going
 
 </div>
 
-<p style="font-size:0.9em; margin-top:20px;">
-<sup>9</sup> Kitty Barry Blackwell to Elizabeth Cushier, Blackwell Family, Blackwell Family Papers: Kitty Barry Blackwell Papers, -1938; General Correspondence, 1867 to 1934; Cushier, E. M. - 1938, 1855. Manuscript/Mixed Material. https://www.loc.gov/item/mss1288001553/.
-</p>
-
-<p style="font-size:0.9em; margin-top:20px;">
-<sup>10</sup> Ethel Robinson-Blackwell to Emily Blackwell and Elizabeth Cushier, Blackwell Family, Blackwell Family Papers: Other Blackwell Family Papers, -1945; Ethel Blackwell Robinson Papers, 1901 to 1943; Correspondence; Blackwell, Emily. - 1945, 1834. Manuscript/Mixed Material. https://www.loc.gov/item/mss1288002212/.
-</p>
-
 <div style="
   width: 100vw;
   margin-left: calc(50% - 50vw);
   background: linear-gradient(180deg, #6B7D5A 0%, #3F4A37 100%);
   color: #F5F1E6;
-  padding: 120px 12vw;
+  padding: 60px 12vw 80px;
   box-sizing: border-box;
   display: flex;
   justify-content: center;
@@ -355,3 +391,41 @@ She also, after providing medical news, updated her sister about household going
   </div>
 
 </div>
+
+## Endnotes
+<p id="citation-1" style="font-size:0.9em; margin-top:20px;">
+  <strong>[1]</strong> Elizabeth Cushier to Emily Blackwell, Letters to Emily Blackwell, n.d.; Papers of the Blackwell family, 1831–1981, MC 411, Box 20, Schlesinger Library on the History of Women in America, Harvard Radcliffe Institute. <a href="https://id.lib.harvard.edu/ead/c/sch00050c00224/catalog">Source.</a> <a href="#citation-ref-1" aria-label="Back to citation 1">Back to citation</a>
+</p>
+<p id="citation-2" style="font-size:0.9em; margin-top:20px;">
+  <strong>[2]</strong> Lillian Faderman, <em>To Believe in Women: What Lesbians Have Done for American History</em> (Houghton Mifflin, 2000), 280. <a href="#citation-ref-2" aria-label="Back to citation 2">Back to citation</a>
+</p>
+<p id="citation-3" style="font-size:0.9em; margin-top:20px;">
+  <strong>[3]</strong> For more information on debates about queer studies, see John Boswell, “Towards the Long View: Revolutions, Universals and Sexual Categories,” <em>Salmagundi</em>, no. 58/59 (1982): 89–113. <a href="http://www.jstor.org/stable/40547566">Read the article.</a> <a href="#citation-ref-3" aria-label="Back to citation 3">Back to citation</a>
+</p>
+<p id="citation-4" style="font-size:0.9em; margin-top:20px;">
+  <strong>[4]</strong> Carla Bittle, <em>Mary Putnam Jacobi and the Politics of Medicine in Nineteenth-Century America</em> (The University of North Carolina Press, 2009), 2. <a href="#citation-ref-4" aria-label="Back to citation 4">Back to citation</a>
+</p>
+<p id="citation-5" style="font-size:0.9em; margin-top:20px;">
+  <strong>[5]</strong> Carolyn Skinner, <em>Women Physicians and Professional Ethos in Nineteenth-Century America</em> (SIU Press, 2014), 2–3. <a href="#citation-ref-5" aria-label="Back to citation 5">Back to citation</a>
+</p>
+<p id="citation-6" style="font-size:0.9em; margin-top:20px;">
+  <strong>[6]</strong> Virginia G. Drachman, “Female Solidarity and Professional Success: The Dilemma of Women Doctors in Late Nineteenth-Century America,” <em>Journal of Social History</em> 15, no. 4 (1982): 616; Lillian Faderman, <em>To Believe in Women</em>, 287. <a href="#citation-ref-6" aria-label="Back to citation 6">Back to citation</a>
+</p>
+<p id="citation-7" style="font-size:0.9em; margin-top:20px;">
+  <strong>[7]</strong> Carroll Smith-Rosenberg, “The Female World of Love and Ritual: Relations between Women in Nineteenth-Century America,” <em>Signs</em> 1, no. 1 (1975): 1–29. <a href="http://www.jstor.org/stable/3172964">Source.</a> <a href="#citation-ref-7" aria-label="Back to citation 7">Back to citation</a>
+</p>
+<p id="citation-8" style="font-size:0.9em; margin-top:20px;">
+  <strong>[8]</strong> Jessie Vander Heide, “Under the Guise of Friendship: Sentimental Intimacies and the Specter of Unnatural Sexuality at Nineteenth-Century Female Academies,” <em>Journal of the History of Sexuality</em> 34, no. 1 (2025): 96. <a href="#citation-ref-8" aria-label="Back to citation 8">Back to citation</a>
+</p>
+<p id="citation-9" style="font-size:0.9em; margin-top:20px;">
+  <strong>[9]</strong> Marylynne Diggs, “Romantic Friends or a Different Race of Creatures? The Representation of Lesbian Pathology in Nineteenth-Century America,” <em>Feminist Studies</em> 21, no. 2 (1995): 317–340. <a href="#citation-ref-9" aria-label="Back to citation 9">Back to citation</a>
+</p>
+<p id="citation-10" style="font-size:0.9em; margin-top:20px;">
+  <strong>[10]</strong> Emily Blackwell to Elizabeth Blackwell, 1896, Blackwell Family Papers, Library of Congress. <a href="https://www.loc.gov/item/mss1288002171/">Source.</a> <a href="#citation-ref-10" aria-label="Back to citation 10">Back to citation</a>
+</p>
+<p id="citation-11" style="font-size:0.9em; margin-top:20px;">
+  <strong>[11]</strong> Kitty Barry Blackwell to Elizabeth Cushier, 1855, Blackwell Family Papers, Library of Congress. <a href="https://www.loc.gov/item/mss1288001553/">Source.</a> <a href="#citation-ref-11" aria-label="Back to citation 11">Back to citation</a>
+</p>
+<p id="citation-12" style="font-size:0.9em; margin-top:20px;">
+  <strong>[12]</strong> Ethel Robinson-Blackwell to Emily Blackwell and Elizabeth Cushier, 1834, Blackwell Family Papers, Library of Congress. <a href="https://www.loc.gov/item/mss1288002212/">Source.</a> <a href="#citation-ref-12" aria-label="Back to citation 12">Back to citation</a>
+</p>
