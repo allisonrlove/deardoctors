@@ -5,6 +5,7 @@ layout: scrollstory
 date: 2026-5-12
 thumbnail: images/seedling-card.jpg
 summary: 
+permalink: /deardoctors/test
 header-image: assets/images/cushier1.jpg
 header-title: My Dear Dear Doctor
 header-subtitle: Elizabeth Cushier and Emily Blackwell's Love and Careers
@@ -35,7 +36,7 @@ Within the intimate form of letters, they created a strict rhetorical line betwe
 Although they constructed rhetorical boundaries between their professional and private lives, the proximity of their discussions of work and home life shows how Cushier and Blackwell’s relationship could not be separated from their identity as doctors. Meeting and building their relationship in a medical institution, they defined their love through reaffirming each other’s authority as doctors. Their letters demonstrate two things: an ingrained perimeter between the professional and intimate and, simultaneously, a relationship that transcended public and private barriers because of their status as medical professionals. 
 
 
-<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#transparent; margin-bottom:30px;">
+<details style="border:1px solid #ccc; padding:12px; border-radius:8px; background:#f8f8f8; margin-bottom:30px;">
 <summary style="font-size:1.2em; font-weight:bold; cursor:pointer;">
 Notes on Queerness
 </summary>
@@ -234,7 +235,7 @@ While she led with the establishment of her medical authority and made a distinc
   <h2 style="color:#afffd6;">Solidarity</h2>
 
   <p>
-  Apart from their conflict with male medical professionals and masculinity, women doctors experienced complicated relationships among themselves as well. As women began to enter the field in the mid-1900s, they formed their learning institutions and professional relationships for each other. They stressed female solidarity as paramount to the experience of being a woman doctor. If men were not going to give them opportunities and careers, they would create them amongst themselves.
+  Apart from their conflict with male medical professionals and masculinity, women doctors experienced complicated relationships among themselves as well. As women began to enter the field in the mid-1900s, they formed their learning institutions and professional relationships for each other. They stressed female solidarity as paramount to the experience of being a woman doctor. If men were not going to give them opportunities and careers, they would create them amongst themselves. <a id="citation-ref-6" href="#citation-6" title="Virginia G. Drachman, 'Female Solidarity and Professional Success' (1982), 616; Lillian Faderman, To Believe in Women, 287." style="font-size:0.7em; vertical-align:super; color:#F5F1E6; font-weight:600; text-decoration:none;">[6]</a>
   </p>
 
   <p>
@@ -257,8 +258,6 @@ While she led with the establishment of her medical authority and made a distinc
   bg-color="rgba(63,74,55,0.9)"
   text=solidarity_text
 %}
-
-<a id="citation-ref-6" href="#citation-6" title="Virginia G. Drachman, 'Female Solidarity and Professional Success' (1982), 616; Lillian Faderman, To Believe in Women, 287." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[6]</a>
 
 ## Cushier to Blackwell Continued 
 
@@ -287,15 +286,15 @@ She pointed out how Thompson’s ideas seemed unfavorable to E.G. and how E.G. r
   </h2>
 
   <p>
-    Beyond their professional relationship, Cushier and Blackwell were in a queer relationship from 1883 until Blackwell’s death in 1910. To recognize this relationship as queer, one needs to know the sexual and gender norms of the late 19th and early 20th centuries. In the histories of women’s sexuality in the 19th century, early scholars named seemingly homosexual relationships between women as ‘romantic friendships’. This category proposes that society accepted close female relationships, where women discussed their love and longing for one another, as a normal part of girlhood and womanhood. These relationships could be passionate and loving but, ultimately, platonic and unconsummated. It could be easy to frame Cushier and Blackwell’s relationship as one of these romantic friendships. However, their connection existed beyond a normative expression of female romantic friendship. 
+    Beyond their professional relationship, Cushier and Blackwell were in a queer relationship from 1883 until Blackwell’s death in 1910. To recognize this relationship as queer, one needs to know the sexual and gender norms of the late 19th and early 20th centuries. In the histories of women’s sexuality in the 19th century, early scholars named seemingly homosexual relationships between women as ‘romantic friendships’. This category proposes that society accepted close female relationships, where women discussed their love and longing for one another, as a normal part of girlhood and womanhood. These relationships could be passionate and loving but, ultimately, platonic and unconsummated. It could be easy to frame Cushier and Blackwell’s relationship as one of these romantic friendships. However, their connection existed beyond a normative expression of female romantic friendship. <a id="citation-ref-7" href="#citation-7" title="Carroll Smith-Rosenberg, 'The Female World of Love and Ritual' (1975)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[7]</a>
   </p>
 
   <p>
-    More recent scholars have returned to the idea of ‘romantic friendships’ and question if it encompasses the scope of female relationships in the 19th century. They show that in the mid to late 1800s, sexuality became more and more pathologized. While early 19th century loving relationships between women might have been socially acceptable, by mid-century, society stigmatized perceived romantic connections and implied sexual behaviors between women. Cushier and Blackwell lived together and expressed their love for one another at a time when their love could have faced serious pushback.  
+    More recent scholars have returned to the idea of ‘romantic friendships’ and question if it encompasses the scope of female relationships in the 19th century. They show that in the mid to late 1800s, sexuality became more and more pathologized. While early 19th century loving relationships between women might have been socially acceptable, by mid-century, society stigmatized perceived romantic connections and implied sexual behaviors between women. Cushier and Blackwell lived together and expressed their love for one another at a time when their love could have faced serious pushback. <a id="citation-ref-8" href="#citation-8" title="Jessie Vander Heide, 'Under the Guise of Friendship' (2025)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[8]</a>
   </p>
 
   <p>
-    Besides existing in a period where their love came with stigma, Cushier and Blackwell were well past the age where people viewed romantic friendship as acceptable. With romantic friendships, society allowed girls and young women to explore these connections in their youth, but, as they grew older, they were required to find husbands. They could carry these connections into their marriages, but people saw eventually establishing a real romantic, heterosexual relationship as a vital part of romantic friendships. At thirty-two and forty-three, people expected Cushier and Blackwell to be married to men and to probably have had children. Instead, they lived with each other, unmarried for their whole lives. <a id="citation-ref-7" href="#citation-7" title="Carroll Smith-Rosenberg, 'The Female World of Love and Ritual' (1975)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[7]</a> <a id="citation-ref-8" href="#citation-8" title="Jessie Vander Heide, 'Under the Guise of Friendship' (2025)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[8]</a> <a id="citation-ref-9" href="#citation-9" title="Marylynne Diggs, 'Romantic Friends or a Different Race of Creatures?' (1995)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[9]</a>
+    Besides existing in a period where their love came with stigma, Cushier and Blackwell were well past the age where people viewed romantic friendship as acceptable. With romantic friendships, society allowed girls and young women to explore these connections in their youth, but, as they grew older, they were required to find husbands. They could carry these connections into their marriages, but people saw eventually establishing a real romantic, heterosexual relationship as a vital part of romantic friendships. At thirty-two and forty-three, people expected Cushier and Blackwell to be married to men and to probably have had children. Instead, they lived with each other, unmarried for their whole lives. <a id="citation-ref-9" href="#citation-9" title="Marylynne Diggs, 'Romantic Friends or a Different Race of Creatures?' (1995)." style="font-size:0.7em; vertical-align:super; color:#6B7D5A; font-weight:600; text-decoration:none;">[9]</a>
   </p>
 
 </div>
