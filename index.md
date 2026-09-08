@@ -106,10 +106,12 @@ There is also the illegibility of both queerness and the past. We will never ful
   <div style="display:flex; gap:20px;">
     <button type="button" class="mystery-word-image" data-image="Mystery word one" aria-label="Enter a guess for mystery word one" style="width:50%; padding:0; border:0; background:transparent; cursor:pointer;">
       <img src="assets/images/mystery1.PNG" alt="First handwritten mystery word" style="display:block; width:100%; height:auto; border-radius:6px; transition:transform 0.25s ease, box-shadow 0.25s ease; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+      <span style="display:block; margin-top:8px; color:#3F4A37; font-size:0.9em;">Click to add your guess!</span>
     </button>
 
     <button type="button" class="mystery-word-image" data-image="Mystery word two" aria-label="Enter a guess for mystery word two" style="width:50%; padding:0; border:0; background:transparent; cursor:pointer;">
       <img src="assets/images/mystery2.PNG" alt="Second handwritten mystery word" style="display:block; width:100%; height:auto; border-radius:6px; transition:transform 0.25s ease, box-shadow 0.25s ease; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
+      <span style="display:block; margin-top:8px; color:#3F4A37; font-size:0.9em;">Click to add your guess!</span>
     </button>
   </div>
 
@@ -120,7 +122,7 @@ There is also the illegibility of both queerness and the past. We will never ful
       <button type="submit" style="margin-top:10px; padding:8px 14px; border:0; border-radius:4px; background:#6B7D5A; color:white; cursor:pointer;">Add guess</button>
     </form>
 
-    <div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:20px;">
+    <div id="mystery-word-guesses" hidden style="display:flex; flex-wrap:wrap; gap:16px; margin-top:20px;">
       <section style="flex:1 1 240px; padding:14px; border:1px solid #A3B18A; border-radius:6px; background:#fff;">
         <h3 style="margin:0 0 10px; color:#3F4A37;">Mystery word one guesses</h3>
         <ul id="mystery-word-one-guesses" style="margin:0; padding-left:20px;"></ul>
@@ -144,11 +146,13 @@ document.addEventListener('DOMContentLoaded', function () {
   const form = document.getElementById('mystery-word-form');
   const wordOneGuesses = document.getElementById('mystery-word-one-guesses');
   const wordTwoGuesses = document.getElementById('mystery-word-two-guesses');
+  const guessesPanel = document.getElementById('mystery-word-guesses');
   const apiUrl = 'https://script.google.com/macros/s/AKfycbyX-ACHdK80LgL7HU4WQ5c4e26NY9osnHXow8OCTMLHVKEuCfKpOEIYWfL1vjnk711qtw/exec';
   let selectedImage = '';
   let guesses = [];
 
   function renderGuesses() {
+    guessesPanel.hidden = guesses.length === 0;
     wordOneGuesses.innerHTML = '';
     wordTwoGuesses.innerHTML = '';
     guesses.forEach(function (guess) {
